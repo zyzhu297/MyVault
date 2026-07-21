@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783169653743-cxe5g6e4f",
+  "providerId": "claude",
+  "title": "Add supplementary content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783169653743,
+  "updatedAt": 1783174131343,
+  "lastResponseAt": 1783173312687,
+  "sessionId": "9f1cc666-c8c5-446b-95be-1af4bb0fb182",
+  "providerState": {
+    "providerSessionId": "9f1cc666-c8c5-446b-95be-1af4bb0fb182"
+  },
+  "currentNote": "408/计算机网络/4.网络层/5.IP多播.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 707,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25600,
+    "contextWindow": 200000,
+    "contextTokens": 26307,
+    "percentage": 13
+  }
+}

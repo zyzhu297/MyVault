@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779892103430-kwada8j84",
+  "providerId": "claude",
+  "title": "补充缺失内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779892103430,
+  "updatedAt": 1779892359770,
+  "lastResponseAt": 1779892280891,
+  "sessionId": "8930c34b-bad7-4478-bd47-f0545f89c374",
+  "providerState": {
+    "providerSessionId": "8930c34b-bad7-4478-bd47-f0545f89c374"
+  },
+  "currentNote": "408/操作系统/2.进程与线程/5.死锁.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 7459,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36096,
+    "contextWindow": 200000,
+    "contextTokens": 43555,
+    "percentage": 22
+  }
+}

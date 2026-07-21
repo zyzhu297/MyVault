@@ -1,0 +1,17 @@
+.en-zh-row {
+  display: flex;
+  gap: 32px;
+  margin: 12px 0;
+}
+
+.en-zh-row > div {
+  flex: 1;
+}
+
+.en {
+  font-weight: 500;
+}
+
+.zh {
+  color: var(--text-muted);
+}

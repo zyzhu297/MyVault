@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779777511240-g48rcz9gt",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779777511240,
+  "updatedAt": 1779863336311,
+  "lastResponseAt": 1779777573501,
+  "sessionId": "58efaf26-3208-494c-8803-d0768c4c8da3",
+  "providerState": {
+    "providerSessionId": "58efaf26-3208-494c-8803-d0768c4c8da3"
+  },
+  "currentNote": "408/操作系统/1.计算机系统概述/6.虚拟机.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 135,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28544,
+    "contextWindow": 200000,
+    "contextTokens": 28679,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780589742466-rcipng0nc",
+  "providerId": "claude",
+  "title": "补充缺失内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780589742466,
+  "updatedAt": 1780806807267,
+  "lastResponseAt": 1780805438717,
+  "sessionId": "36b9a4b2-3298-412e-806f-f9b6970fb03d",
+  "providerState": {
+    "providerSessionId": "36b9a4b2-3298-412e-806f-f9b6970fb03d"
+  },
+  "currentNote": "408/操作系统/4.文件管理/4.文件系统.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 910,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 75008,
+    "contextWindow": 1000000,
+    "contextTokens": 75918,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782797746482-53h8wlwsu",
+  "providerId": "claude",
+  "title": "Supplement link aggregation content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782797746482,
+  "updatedAt": 1782798357921,
+  "lastResponseAt": 1782798240090,
+  "sessionId": "87be98b0-8986-43cb-9ff7-4ced3a2c8937",
+  "providerState": {
+    "providerSessionId": "87be98b0-8986-43cb-9ff7-4ced3a2c8937"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/1.数据链路层的功能.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 484,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28032,
+    "contextWindow": 200000,
+    "contextTokens": 28516,
+    "percentage": 14
+  }
+}

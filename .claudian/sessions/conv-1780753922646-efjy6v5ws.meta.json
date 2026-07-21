@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780753922646-efjy6v5ws",
+  "providerId": "claude",
+  "title": "Add supplementary content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780753922646,
+  "updatedAt": 1780766734532,
+  "lastResponseAt": 1780753981226,
+  "sessionId": "18e2531d-9d79-4fca-a2c9-350b0a18e66b",
+  "providerState": {
+    "providerSessionId": "18e2531d-9d79-4fca-a2c9-350b0a18e66b"
+  },
+  "currentNote": "408/计算机组成原理/1.计算机概述/1.计算机发展历程.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 158,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23424,
+    "contextWindow": 200000,
+    "contextTokens": 23582,
+    "percentage": 12
+  }
+}

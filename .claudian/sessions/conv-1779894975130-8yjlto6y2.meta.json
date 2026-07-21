@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779894975130-8yjlto6y2",
+  "providerId": "claude",
+  "title": "补充408考纲内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779894975130,
+  "updatedAt": 1779895687053,
+  "lastResponseAt": 1779895074870,
+  "sessionId": "01545096-43d7-4698-9ed9-a5dccefd7280",
+  "providerState": {
+    "providerSessionId": "01545096-43d7-4698-9ed9-a5dccefd7280"
+  },
+  "currentNote": "408/计算机网络/2.物理层/1.通信基础.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 131,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28288,
+    "contextWindow": 200000,
+    "contextTokens": 28419,
+    "percentage": 14
+  }
+}

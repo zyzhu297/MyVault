@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779277974903-by83p037l",
+  "providerId": "claude",
+  "title": "补充缺失信息",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779277974903,
+  "updatedAt": 1779353089390,
+  "lastResponseAt": 1779353089390,
+  "sessionId": "d4d0a244-3bb6-43af-8984-124e914dd6b2",
+  "providerState": {
+    "providerSessionId": "d4d0a244-3bb6-43af-8984-124e914dd6b2"
+  },
+  "currentNote": "408/数据结构/5.查找/3.树形查找.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 6098,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 108032,
+    "contextWindow": 200000,
+    "contextTokens": 114130,
+    "percentage": 57,
+    "contextWindowIsAuthoritative": true
+  }
+}

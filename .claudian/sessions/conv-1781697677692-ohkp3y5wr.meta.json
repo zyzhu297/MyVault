@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781697677692-ohkp3y5wr",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781697677692,
+  "updatedAt": 1781785083477,
+  "lastResponseAt": 1781703264524,
+  "sessionId": "589ac780-35d4-4f6e-91d1-c9b4d1d206e3",
+  "providerState": {
+    "providerSessionId": "589ac780-35d4-4f6e-91d1-c9b4d1d206e3"
+  },
+  "currentNote": "408/计算机组成原理/3.存储系统/6.虚拟存储器.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1101,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 67840,
+    "contextWindow": 200000,
+    "contextTokens": 68941,
+    "percentage": 34
+  }
+}

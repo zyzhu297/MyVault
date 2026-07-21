@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782627821169-9cqr1hpxa",
+  "providerId": "claude",
+  "title": "Explain code distance",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782627821169,
+  "updatedAt": 1782632299391,
+  "lastResponseAt": 1782632291828,
+  "sessionId": "b2111103-702d-4be5-9b05-478ae83a4150",
+  "providerState": {
+    "providerSessionId": "b2111103-702d-4be5-9b05-478ae83a4150"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/3.差错控制.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 6407,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 92416,
+    "contextWindow": 200000,
+    "contextTokens": 98823,
+    "percentage": 49
+  }
+}

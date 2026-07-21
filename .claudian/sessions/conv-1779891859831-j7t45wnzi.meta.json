@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779891859831-j7t45wnzi",
+  "providerId": "claude",
+  "title": "Supplement missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779891859831,
+  "updatedAt": 1779892360115,
+  "lastResponseAt": 1779892068494,
+  "sessionId": "f7916449-cbd3-4e30-ada8-960d93e41f15",
+  "providerState": {
+    "providerSessionId": "f7916449-cbd3-4e30-ada8-960d93e41f15"
+  },
+  "currentNote": "408/操作系统/2.进程与线程/4.同步与互斥.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 9284,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37248,
+    "contextWindow": 200000,
+    "contextTokens": 46532,
+    "percentage": 23
+  }
+}

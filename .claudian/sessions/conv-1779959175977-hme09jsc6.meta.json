@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779959175977-hme09jsc6",
+  "providerId": "claude",
+  "title": "Complete thread implementation comparison table",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779959175978,
+  "updatedAt": 1780061225863,
+  "lastResponseAt": 1779959297990,
+  "sessionId": "72d2133e-5c1e-48c1-9e2e-624d7bc25c17",
+  "providerState": {
+    "providerSessionId": "72d2133e-5c1e-48c1-9e2e-624d7bc25c17"
+  },
+  "currentNote": "408/操作系统/2.进程与线程/2.线程.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 677,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33536,
+    "contextWindow": 200000,
+    "contextTokens": 34213,
+    "percentage": 17
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782234878425-lnl9zu7uc",
+  "providerId": "claude",
+  "title": "补充文档内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782234878425,
+  "updatedAt": 1782275176029,
+  "lastResponseAt": 1782236592720,
+  "sessionId": "b6e97ba0-5ef2-4816-af7c-092f207f78bf",
+  "providerState": {
+    "providerSessionId": "b6e97ba0-5ef2-4816-af7c-092f207f78bf"
+  },
+  "currentNote": "408/计算机组成原理/5.中央处理器/7.多处理器的基本概念.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 988,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31872,
+    "contextWindow": 200000,
+    "contextTokens": 32860,
+    "percentage": 16
+  }
+}

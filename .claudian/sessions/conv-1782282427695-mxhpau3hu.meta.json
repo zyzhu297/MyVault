@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782282427695-mxhpau3hu",
+  "providerId": "claude",
+  "title": "Complete missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782282427695,
+  "updatedAt": 1782285483368,
+  "lastResponseAt": 1782284381011,
+  "sessionId": "dfbbf856-1b3c-4ce6-b5eb-c05ea15f0d2d",
+  "providerState": {
+    "providerSessionId": "dfbbf856-1b3c-4ce6-b5eb-c05ea15f0d2d"
+  },
+  "currentNote": "408/计算机组成原理/6.总线/2.总线事务和定时.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 164,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 65152,
+    "contextWindow": 200000,
+    "contextTokens": 65316,
+    "percentage": 33
+  }
+}

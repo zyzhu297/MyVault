@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782569980310-nkvz66ps4",
+  "providerId": "claude",
+  "title": "Adjust document heading hierarchy",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782569980310,
+  "updatedAt": 1782570851030,
+  "lastResponseAt": 1782570476143,
+  "sessionId": "9a2d0651-d340-4a13-8351-2c6f24a34baf",
+  "providerState": {
+    "providerSessionId": "9a2d0651-d340-4a13-8351-2c6f24a34baf"
+  },
+  "currentNote": "408/计算机网络/2.物理层/2.传输介质.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1810,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33536,
+    "contextWindow": 200000,
+    "contextTokens": 35346,
+    "percentage": 18
+  }
+}

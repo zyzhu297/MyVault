@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784624996663-0307t2dgz",
+  "providerId": "claude",
+  "title": "Explain cf calculation reasoning",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784624996663,
+  "updatedAt": 1784632389045,
+  "lastResponseAt": 1784632389045,
+  "sessionId": "5a6679de-855e-4732-ab1a-a2ff2feda11f",
+  "providerState": {
+    "providerSessionId": "5a6679de-855e-4732-ab1a-a2ff2feda11f"
+  },
+  "currentNote": "408/计算机组成原理/2.数据的表示和运算/2.运算方法与运算电路.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1122,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35328,
+    "contextWindow": 200000,
+    "contextTokens": 36450,
+    "percentage": 18
+  }
+}

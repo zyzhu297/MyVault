@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779892681436-va74jn1vr",
+  "providerId": "claude",
+  "title": "Supplement document content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779892681436,
+  "updatedAt": 1779893017362,
+  "lastResponseAt": 1779892783794,
+  "sessionId": "786d9fb8-93e3-49d9-b177-141442047b59",
+  "providerState": {
+    "providerSessionId": "786d9fb8-93e3-49d9-b177-141442047b59"
+  },
+  "currentNote": "408/操作系统/3.内存管理/2.虚拟内存管理.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 83,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28928,
+    "contextWindow": 200000,
+    "contextTokens": 29011,
+    "percentage": 15
+  }
+}

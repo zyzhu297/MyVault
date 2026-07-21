@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779009469225-os29wrh5i",
+  "providerId": "claude",
+  "title": "Implement BFS algorithm",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779009469225,
+  "updatedAt": 1779072593048,
+  "lastResponseAt": 1779011660894,
+  "sessionId": "48710f56-5548-43f7-a389-e2acfb49ecdb",
+  "providerState": {
+    "providerSessionId": "48710f56-5548-43f7-a389-e2acfb49ecdb"
+  },
+  "currentNote": "408/数据结构/4.图/2.图的遍历.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1089,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23808,
+    "contextWindow": 200000,
+    "contextTokens": 24897,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

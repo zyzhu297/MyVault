@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779426420018-i3ym0nkd8",
+  "providerId": "claude",
+  "title": "Explain sorting basics",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779426420018,
+  "updatedAt": 1779426446670,
+  "lastResponseAt": 1779426446670,
+  "sessionId": "f839a5a7-bbdc-4ce6-98dc-797586e7363c",
+  "providerState": {
+    "providerSessionId": "f839a5a7-bbdc-4ce6-98dc-797586e7363c"
+  },
+  "currentNote": "408/数据结构/6.排序/1.排序的基本概念.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2228,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19968,
+    "contextWindow": 200000,
+    "contextTokens": 22196,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

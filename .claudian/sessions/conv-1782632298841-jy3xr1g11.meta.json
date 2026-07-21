@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782632298841-jy3xr1g11",
+  "providerId": "claude",
+  "title": "Explain sliding window flow control",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782632298842,
+  "updatedAt": 1782639110637,
+  "lastResponseAt": 1782638468200,
+  "sessionId": "e04fcdf8-c525-4f69-b47a-4a2f93ca6d04",
+  "providerState": {
+    "providerSessionId": "e04fcdf8-c525-4f69-b47a-4a2f93ca6d04"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/4.流量控制与可靠传输机制.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 864,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 94080,
+    "contextWindow": 200000,
+    "contextTokens": 94944,
+    "percentage": 47
+  }
+}

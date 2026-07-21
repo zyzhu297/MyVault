@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783174132643-6aabwck9o",
+  "providerId": "claude",
+  "title": "Add supplementary details",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783174132644,
+  "updatedAt": 1783258064554,
+  "lastResponseAt": 1783175968160,
+  "sessionId": "43202854-7340-4058-85e8-557245aae6b2",
+  "providerState": {
+    "providerSessionId": "43202854-7340-4058-85e8-557245aae6b2"
+  },
+  "currentNote": "408/计算机网络/4.网络层/6.移动IP.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 379,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44288,
+    "contextWindow": 200000,
+    "contextTokens": 44667,
+    "percentage": 22
+  }
+}

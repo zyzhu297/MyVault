@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779775114446-vunjr32w8",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779775114446,
+  "updatedAt": 1779775143145,
+  "lastResponseAt": 1779775143145,
+  "sessionId": "bf9fd2ed-3ff5-438e-8b11-5cb4b78c48ee",
+  "providerState": {
+    "providerSessionId": "bf9fd2ed-3ff5-438e-8b11-5cb4b78c48ee"
+  },
+  "currentNote": "408/操作系统/1.计算机系统概述/5.操作系统引导.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 170,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25984,
+    "contextWindow": 200000,
+    "contextTokens": 26154,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

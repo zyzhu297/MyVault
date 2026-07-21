@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780920223889-9154nr19k",
+  "providerId": "claude",
+  "title": "解释用户缓冲区和内核缓冲区的定义与作用",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780920223889,
+  "updatedAt": 1780927485861,
+  "lastResponseAt": 1780920250431,
+  "sessionId": "82f7ed8d-6f57-4e04-9517-83cc41940312",
+  "providerState": {
+    "providerSessionId": "82f7ed8d-6f57-4e04-9517-83cc41940312"
+  },
+  "currentNote": "408/操作系统/5.输入输出管理/2.设备独立性软件.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 7379,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20352,
+    "contextWindow": 200000,
+    "contextTokens": 27731,
+    "percentage": 14
+  }
+}

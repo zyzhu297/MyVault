@@ -1,0 +1,22 @@
+{
+  "id": "conv-1780213831212-g9texm3dj",
+  "providerId": "claude",
+  "title": "Explain hypothesis testing basics",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780213831212,
+  "updatedAt": 1780217116666,
+  "lastResponseAt": 1780213994143,
+  "sessionId": "b5e037f4-5104-4eab-8297-85d91d348033",
+  "providerState": {
+    "providerSessionId": "b5e037f4-5104-4eab-8297-85d91d348033"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 4735,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31616,
+    "contextWindow": 200000,
+    "contextTokens": 36351,
+    "percentage": 18
+  }
+}

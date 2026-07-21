@@ -1,0 +1,8 @@
+{
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "./附件",
+  "vimMode": false,
+  "readableLineLength": true
+}

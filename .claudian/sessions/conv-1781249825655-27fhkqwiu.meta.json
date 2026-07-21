@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781249825655-27fhkqwiu",
+  "providerId": "claude",
+  "title": "Supplement content in document",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781249825655,
+  "updatedAt": 1781446222560,
+  "lastResponseAt": 1781267745104,
+  "sessionId": "20c409cf-44fe-47ea-a4f5-fd1316dc1cfb",
+  "providerState": {
+    "providerSessionId": "20c409cf-44fe-47ea-a4f5-fd1316dc1cfb"
+  },
+  "currentNote": "408/计算机组成原理/2.数据的表示和运算/2.运算方法与运算电路.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 164,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 171520,
+    "contextWindow": 200000,
+    "contextTokens": 171684,
+    "percentage": 86
+  }
+}

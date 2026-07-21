@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780766755215-cup5p0jwm",
+  "providerId": "claude",
+  "title": "Expand Taylor series for (1+x)^(1/a)",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780766755215,
+  "updatedAt": 1780805392554,
+  "lastResponseAt": 1780766779345,
+  "sessionId": "ac48f141-f9e9-41bc-9a81-61e3a4868901",
+  "providerState": {
+    "providerSessionId": "ac48f141-f9e9-41bc-9a81-61e3a4868901"
+  },
+  "currentNote": "数学/高等数学/1.函数、极限、连续/泰勒公式.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1071,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22272,
+    "contextWindow": 1000000,
+    "contextTokens": 23343,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

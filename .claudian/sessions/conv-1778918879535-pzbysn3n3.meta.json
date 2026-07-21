@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778918879535-pzbysn3n3",
+  "providerId": "claude",
+  "title": "Draw a directed graph",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778918879535,
+  "updatedAt": 1778920637027,
+  "lastResponseAt": 1778919020146,
+  "sessionId": "35a3b530-6fd0-4813-97d4-ce252d301283",
+  "providerState": {
+    "providerSessionId": "35a3b530-6fd0-4813-97d4-ce252d301283"
+  },
+  "currentNote": "Excalidraw/Drawing 2026-05-16 16.07.26.excalidraw.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 91,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32256,
+    "contextWindow": 200000,
+    "contextTokens": 32347,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

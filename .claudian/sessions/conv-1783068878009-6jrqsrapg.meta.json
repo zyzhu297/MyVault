@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783068878009-6jrqsrapg",
+  "providerId": "claude",
+  "title": "补充缺失信息",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783068878009,
+  "updatedAt": 1783169651542,
+  "lastResponseAt": 1783167889180,
+  "sessionId": "972c201c-9276-4e09-bbfe-fbb9630cd050",
+  "providerState": {
+    "providerSessionId": "972c201c-9276-4e09-bbfe-fbb9630cd050"
+  },
+  "currentNote": "408/计算机网络/4.网络层/4.路由算法与路由协议.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1511,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 180224,
+    "contextWindow": 1000000,
+    "contextTokens": 181735,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

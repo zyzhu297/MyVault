@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781069343348-xvkr28994",
+  "providerId": "claude",
+  "title": "Supplement content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781069343348,
+  "updatedAt": 1781073204923,
+  "lastResponseAt": 1781073204923,
+  "sessionId": "4d7c8c64-7fa1-4a21-90ac-daec13ab9d06",
+  "providerState": {
+    "providerSessionId": "4d7c8c64-7fa1-4a21-90ac-daec13ab9d06"
+  },
+  "currentNote": "408/计算机组成原理/1.计算机概述/2.计算机系统层次结构.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 157,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 86656,
+    "contextWindow": 200000,
+    "contextTokens": 86813,
+    "percentage": 43
+  }
+}

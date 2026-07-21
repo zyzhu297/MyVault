@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782715957023-jj2b4z4l4",
+  "providerId": "claude",
+  "title": "Explain IEEE 802.5 token passing process",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782715957023,
+  "updatedAt": 1782735399498,
+  "lastResponseAt": 1782735394085,
+  "sessionId": "6692f95b-d92c-4586-88c8-0b8b7595821b",
+  "providerState": {
+    "providerSessionId": "6692f95b-d92c-4586-88c8-0b8b7595821b"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/5.介质访问控制.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 3455,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 133632,
+    "contextWindow": 200000,
+    "contextTokens": 137087,
+    "percentage": 69
+  }
+}

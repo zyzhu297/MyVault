@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780284214076-9fyw2rc18",
+  "providerId": "claude",
+  "title": "Explain address relocation and partitions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780284214076,
+  "updatedAt": 1780388447341,
+  "lastResponseAt": 1780306725045,
+  "sessionId": "2306369d-650d-42cf-be16-b105f93d8aeb",
+  "providerState": {
+    "providerSessionId": "2306369d-650d-42cf-be16-b105f93d8aeb"
+  },
+  "currentNote": "408/操作系统/3.内存管理/1.内存管理概念.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 687,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 80640,
+    "contextWindow": 200000,
+    "contextTokens": 81327,
+    "percentage": 41
+  }
+}

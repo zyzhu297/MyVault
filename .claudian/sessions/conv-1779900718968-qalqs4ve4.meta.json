@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779900718968-qalqs4ve4",
+  "providerId": "claude",
+  "title": "Supplement content per 408 syllabus",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779900718968,
+  "updatedAt": 1779900972900,
+  "lastResponseAt": 1779900808697,
+  "sessionId": "752f47e5-a448-486c-afe3-171eba5a4601",
+  "providerState": {
+    "providerSessionId": "752f47e5-a448-486c-afe3-171eba5a4601"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/1.数据链路层的功能.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 160,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32000,
+    "contextWindow": 200000,
+    "contextTokens": 32160,
+    "percentage": 16
+  }
+}

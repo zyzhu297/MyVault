@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780589556815-96y6j6e4c",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780589556815,
+  "updatedAt": 1780589741115,
+  "lastResponseAt": 1780589736726,
+  "sessionId": "909a7485-e565-4f0a-8a0d-659fa0d07f01",
+  "providerState": {
+    "providerSessionId": "909a7485-e565-4f0a-8a0d-659fa0d07f01"
+  },
+  "currentNote": "408/操作系统/4.文件管理/4.文件系统.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 577,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 39936,
+    "contextWindow": 200000,
+    "contextTokens": 40513,
+    "percentage": 20
+  }
+}

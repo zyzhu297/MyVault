@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783429879269-aoy42a072",
+  "providerId": "claude",
+  "title": "Add supplementary information",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783429879269,
+  "updatedAt": 1783432158111,
+  "lastResponseAt": 1783431378560,
+  "sessionId": "e5775615-f78f-471d-b0cd-2cd9b3fdebb0",
+  "providerState": {
+    "providerSessionId": "e5775615-f78f-471d-b0cd-2cd9b3fdebb0"
+  },
+  "currentNote": "408/计算机网络/6.应用层/2.域名系统.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1035,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45184,
+    "contextWindow": 200000,
+    "contextTokens": 46219,
+    "percentage": 23
+  }
+}

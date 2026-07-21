@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779718412140-qqk7m2b7m",
+  "providerId": "claude",
+  "title": "Supplement Gamma function content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779718412140,
+  "updatedAt": 1779727843134,
+  "lastResponseAt": 1779718552920,
+  "sessionId": "1e7f7e81-a02e-4ddf-8737-d5c4d7934fb7",
+  "providerState": {
+    "providerSessionId": "1e7f7e81-a02e-4ddf-8737-d5c4d7934fb7"
+  },
+  "currentNote": "数学/高等数学/Γ函数.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 62,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23808,
+    "contextWindow": 200000,
+    "contextTokens": 23870,
+    "percentage": 12
+  }
+}

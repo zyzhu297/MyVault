@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781966358439-1i9qg549x",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781966358439,
+  "updatedAt": 1782132681738,
+  "lastResponseAt": 1782032261403,
+  "sessionId": "ad047151-8036-46d6-8dfa-547060162b3f",
+  "providerState": {
+    "providerSessionId": "ad047151-8036-46d6-8dfa-547060162b3f"
+  },
+  "currentNote": "408/计算机组成原理/5.中央处理器/3.数据通路的功能和基本结构.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 350,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 161024,
+    "contextWindow": 1000000,
+    "contextTokens": 161374,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

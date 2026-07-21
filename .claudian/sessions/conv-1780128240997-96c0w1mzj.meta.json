@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780128240997-96c0w1mzj",
+  "providerId": "claude",
+  "title": "Supplement missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780128240997,
+  "updatedAt": 1780142303371,
+  "lastResponseAt": 1780128282916,
+  "sessionId": "16d1c1b0-ee8f-4ee1-9cf4-a783b329d8af",
+  "providerState": {
+    "providerSessionId": "16d1c1b0-ee8f-4ee1-9cf4-a783b329d8af"
+  },
+  "currentNote": "数学/杂项/柯西不等式.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 129,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22272,
+    "contextWindow": 200000,
+    "contextTokens": 22401,
+    "percentage": 11
+  }
+}

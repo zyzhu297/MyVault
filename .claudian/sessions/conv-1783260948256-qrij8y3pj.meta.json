@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783260948256-qrij8y3pj",
+  "providerId": "claude",
+  "title": "补充对话内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783260948256,
+  "updatedAt": 1783322152110,
+  "lastResponseAt": 1783262475909,
+  "sessionId": "3fe0d065-ea7e-499e-946a-8cbf67f353ff",
+  "providerState": {
+    "providerSessionId": "3fe0d065-ea7e-499e-946a-8cbf67f353ff"
+  },
+  "currentNote": "408/计算机网络/5.传输层/1.传输层提供的服务.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 758,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 58112,
+    "contextWindow": 200000,
+    "contextTokens": 58870,
+    "percentage": 29
+  }
+}

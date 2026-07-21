@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782798362315-iv6gh1vsw",
+  "providerId": "claude",
+  "title": "Supplement current code",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782798362316,
+  "updatedAt": 1782812872561,
+  "lastResponseAt": 1782812699806,
+  "sessionId": "566079a2-a70e-4aba-9de7-56e7ccbe1063",
+  "providerState": {
+    "providerSessionId": "566079a2-a70e-4aba-9de7-56e7ccbe1063"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/7.广域网.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 459,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 74240,
+    "contextWindow": 200000,
+    "contextTokens": 74699,
+    "percentage": 37
+  }
+}

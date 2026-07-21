@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781623572828-41ib60oen",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781623572828,
+  "updatedAt": 1781697670826,
+  "lastResponseAt": 1781668182019,
+  "sessionId": "0740870c-0f09-415e-8fc2-d5a2b905fefb",
+  "providerState": {
+    "providerSessionId": "0740870c-0f09-415e-8fc2-d5a2b905fefb"
+  },
+  "currentNote": "408/计算机组成原理/3.存储系统/5.高速缓冲存储器.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1920,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44544,
+    "contextWindow": 1000000,
+    "contextTokens": 46464,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

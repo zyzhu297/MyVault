@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779514466536-adova2own",
+  "providerId": "claude",
+  "title": "Complete missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779514466536,
+  "updatedAt": 1779523362535,
+  "lastResponseAt": 1779523362535,
+  "sessionId": "6255f9c6-90a0-40c4-bbc5-6d19c99a79a0",
+  "providerState": {
+    "providerSessionId": "6255f9c6-90a0-40c4-bbc5-6d19c99a79a0"
+  },
+  "currentNote": "408/数据结构/6.排序/9.外部排序.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 663,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 65024,
+    "contextWindow": 200000,
+    "contextTokens": 65687,
+    "percentage": 33
+  }
+}

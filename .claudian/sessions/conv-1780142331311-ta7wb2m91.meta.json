@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780142331311-ta7wb2m91",
+  "providerId": "claude",
+  "title": "Promote headings one level",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780142331312,
+  "updatedAt": 1780217116984,
+  "lastResponseAt": 1780151276405,
+  "sessionId": "ceabeeb4-7da1-4d82-9883-43bf9e54e80f",
+  "providerState": {
+    "providerSessionId": "ceabeeb4-7da1-4d82-9883-43bf9e54e80f"
+  },
+  "currentNote": "408/操作系统/2.进程与线程/5.死锁.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1078,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 71680,
+    "contextWindow": 200000,
+    "contextTokens": 72758,
+    "percentage": 36
+  }
+}

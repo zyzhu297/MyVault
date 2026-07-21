@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782735398492-72c8s2jtx",
+  "providerId": "claude",
+  "title": "Update error summary from revised text",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782735398492,
+  "updatedAt": 1782798359895,
+  "lastResponseAt": 1782798047784,
+  "sessionId": "8c84b586-7710-4748-ba50-a2425bbbc6ff",
+  "providerState": {
+    "providerSessionId": "8c84b586-7710-4748-ba50-a2425bbbc6ff"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/5.介质访问控制.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 676,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41472,
+    "contextWindow": 1000000,
+    "contextTokens": 42148,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

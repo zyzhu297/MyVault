@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779893055954-ywi6uv43m",
+  "providerId": "claude",
+  "title": "Supplement content per 408 syllabus",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779893055955,
+  "updatedAt": 1779894976701,
+  "lastResponseAt": 1779893215066,
+  "sessionId": "df9f6390-b3a0-492e-a45b-a71c9db6177b",
+  "providerState": {
+    "providerSessionId": "df9f6390-b3a0-492e-a45b-a71c9db6177b"
+  },
+  "currentNote": "408/操作系统/4.文件管理/2.目录与文件.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 101,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35456,
+    "contextWindow": 200000,
+    "contextTokens": 35557,
+    "percentage": 18
+  }
+}

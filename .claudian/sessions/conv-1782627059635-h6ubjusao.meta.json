@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782627059635-h6ubjusao",
+  "providerId": "claude",
+  "title": "Modify text with ESC, SOH, EOT delimiters",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782627059635,
+  "updatedAt": 1782627685278,
+  "lastResponseAt": 1782627304632,
+  "sessionId": "809e475a-85a4-4312-91b3-d311b434bb2f",
+  "providerState": {
+    "providerSessionId": "809e475a-85a4-4312-91b3-d311b434bb2f"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/2.组帧.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 175,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40960,
+    "contextWindow": 200000,
+    "contextTokens": 41135,
+    "percentage": 21
+  }
+}

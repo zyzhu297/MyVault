@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782457795597-qp2pyutlm",
+  "providerId": "claude",
+  "title": "Distinguish between two nouns",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782457795597,
+  "updatedAt": 1782569974696,
+  "lastResponseAt": 1782458280382,
+  "sessionId": "db6d6fa8-7003-4d01-b58c-45791655d038",
+  "providerState": {
+    "providerSessionId": "db6d6fa8-7003-4d01-b58c-45791655d038"
+  },
+  "currentNote": "408/计算机网络/1.计算机网络体系结构/1.计算机网络概述.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1978,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24704,
+    "contextWindow": 200000,
+    "contextTokens": 26682,
+    "percentage": 13
+  }
+}

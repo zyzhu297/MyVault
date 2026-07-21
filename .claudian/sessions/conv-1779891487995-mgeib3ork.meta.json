@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779891487995-mgeib3ork",
+  "providerId": "claude",
+  "title": "Fill in template content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779891487995,
+  "updatedAt": 1779891850594,
+  "lastResponseAt": 1779891625007,
+  "sessionId": "0238f1e3-aa9a-4153-806b-9fec43049de4",
+  "providerState": {
+    "providerSessionId": "0238f1e3-aa9a-4153-806b-9fec43049de4"
+  },
+  "currentNote": "408/操作系统/2.进程与线程/3.CPU 调度.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 176,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36992,
+    "contextWindow": 200000,
+    "contextTokens": 37168,
+    "percentage": 19
+  }
+}

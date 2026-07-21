@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781448087360-j88rxrk1g",
+  "providerId": "claude",
+  "title": "Supplement content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781448087360,
+  "updatedAt": 1781454772441,
+  "lastResponseAt": 1781454772441,
+  "sessionId": "5c8b2ce7-2521-4b94-81a3-0752c8c1d365",
+  "providerState": {
+    "providerSessionId": "5c8b2ce7-2521-4b94-81a3-0752c8c1d365"
+  },
+  "currentNote": "408/计算机组成原理/3.存储系统/2.主存储器.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 527,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 68480,
+    "contextWindow": 200000,
+    "contextTokens": 69007,
+    "percentage": 35
+  }
+}

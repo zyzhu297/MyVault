@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779952658729-1m8p7yglm",
+  "providerId": "claude",
+  "title": "Explain three-level scheduling connections",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779952658729,
+  "updatedAt": 1780217118942,
+  "lastResponseAt": 1780059413932,
+  "sessionId": "ae080b92-a31d-447d-8d81-cdb10c692990",
+  "providerState": {
+    "providerSessionId": "ae080b92-a31d-447d-8d81-cdb10c692990"
+  },
+  "currentNote": "408/操作系统/2.进程与线程/3.CPU 调度.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 428,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 152832,
+    "contextWindow": 200000,
+    "contextTokens": 153260,
+    "percentage": 77
+  }
+}

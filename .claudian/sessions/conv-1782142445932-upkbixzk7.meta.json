@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782142445932-upkbixzk7",
+  "providerId": "claude",
+  "title": "Supplement missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782142445932,
+  "updatedAt": 1782204331782,
+  "lastResponseAt": 1782144558181,
+  "sessionId": "10f483aa-d848-4aad-8bda-b4a8ade98203",
+  "providerState": {
+    "providerSessionId": "10f483aa-d848-4aad-8bda-b4a8ade98203"
+  },
+  "currentNote": "408/计算机组成原理/5.中央处理器/5.异常和中断机制.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 752,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 73088,
+    "contextWindow": 200000,
+    "contextTokens": 73840,
+    "percentage": 37
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779727847301-qazd5y1ma",
+  "providerId": "claude",
+  "title": "Add offline IO to manual operations",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779727847301,
+  "updatedAt": 1779775108120,
+  "lastResponseAt": 1779731062564,
+  "sessionId": "514c79e1-fa06-4c2b-bef4-1eddb3ccec81",
+  "providerState": {
+    "providerSessionId": "514c79e1-fa06-4c2b-bef4-1eddb3ccec81"
+  },
+  "currentNote": "408/操作系统/1.计算机系统概述/2.操作系统发展历程.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 423,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30464,
+    "contextWindow": 200000,
+    "contextTokens": 30887,
+    "percentage": 15
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779900130788-g6m3pjktq",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779900130788,
+  "updatedAt": 1779900705067,
+  "lastResponseAt": 1779900627381,
+  "sessionId": "9a0b3489-890a-4237-98b1-cc4cbf70aa61",
+  "providerState": {
+    "providerSessionId": "9a0b3489-890a-4237-98b1-cc4cbf70aa61"
+  },
+  "currentNote": "408/计算机网络/2.物理层/2.传输介质.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 94,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29440,
+    "contextWindow": 200000,
+    "contextTokens": 29534,
+    "percentage": 15
+  }
+}

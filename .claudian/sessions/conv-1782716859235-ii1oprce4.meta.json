@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782716859235-ii1oprce4",
+  "providerId": "claude",
+  "title": "Explain LAN latency range",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782716859235,
+  "updatedAt": 1782735398937,
+  "lastResponseAt": 1782735347393,
+  "sessionId": "ecaa0986-84ad-4c15-8046-a9e2da258a54",
+  "providerState": {
+    "providerSessionId": "ecaa0986-84ad-4c15-8046-a9e2da258a54"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/6.局域网.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 169,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 149120,
+    "contextWindow": 200000,
+    "contextTokens": 149289,
+    "percentage": 75
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782566196752-368z92uj2",
+  "providerId": "claude",
+  "title": "Delete H1 heading and promote others",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782566196752,
+  "updatedAt": 1782569973262,
+  "lastResponseAt": 1782569824306,
+  "sessionId": "ed79d92a-48b6-43bf-978b-c8c65b5cb631",
+  "providerState": {
+    "providerSessionId": "ed79d92a-48b6-43bf-978b-c8c65b5cb631"
+  },
+  "currentNote": "408/计算机网络/2.物理层/1.通信基础.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 581,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 57728,
+    "contextWindow": 200000,
+    "contextTokens": 58309,
+    "percentage": 29
+  }
+}

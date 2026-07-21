@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783429232304-wgrj4yb9z",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783429232304,
+  "updatedAt": 1783429876441,
+  "lastResponseAt": 1783429518499,
+  "sessionId": "c43b5a2c-467d-4a41-a536-c6141f2b56e6",
+  "providerState": {
+    "providerSessionId": "c43b5a2c-467d-4a41-a536-c6141f2b56e6"
+  },
+  "currentNote": "408/计算机网络/6.应用层/1.网络应用模型.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 348,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42240,
+    "contextWindow": 200000,
+    "contextTokens": 42588,
+    "percentage": 21
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779900630857-fw30ig5hx",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779900630858,
+  "updatedAt": 1779900705301,
+  "lastResponseAt": 1779900694903,
+  "sessionId": "6204acae-d49f-42cb-8ef3-148ac201c7f7",
+  "providerState": {
+    "providerSessionId": "6204acae-d49f-42cb-8ef3-148ac201c7f7"
+  },
+  "currentNote": "408/计算机网络/2.物理层/3.物理层设备.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 185,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30592,
+    "contextWindow": 200000,
+    "contextTokens": 30777,
+    "percentage": 15
+  }
+}

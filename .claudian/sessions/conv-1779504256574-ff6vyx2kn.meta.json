@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779504256574-ff6vyx2kn",
+  "providerId": "claude",
+  "title": "Implement radix sort algorithm",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779504256574,
+  "updatedAt": 1779510722381,
+  "lastResponseAt": 1779504370652,
+  "sessionId": "ae8f6dd6-2f23-439f-978e-3fd7609a66e4",
+  "providerState": {
+    "providerSessionId": "ae8f6dd6-2f23-439f-978e-3fd7609a66e4"
+  },
+  "currentNote": "408/数据结构/6.排序/6.基数排序.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 96,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33280,
+    "contextWindow": 200000,
+    "contextTokens": 33376,
+    "percentage": 17
+  }
+}

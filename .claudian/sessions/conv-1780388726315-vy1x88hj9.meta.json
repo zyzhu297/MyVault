@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780388726315-vy1x88hj9",
+  "providerId": "claude",
+  "title": "Summarize page frame allocation strategies",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780388726315,
+  "updatedAt": 1780389111320,
+  "lastResponseAt": 1780388762941,
+  "sessionId": "2fff3eae-6cc6-41f6-ac33-64cdb8cafd9c",
+  "providerState": {
+    "providerSessionId": "2fff3eae-6cc6-41f6-ac33-64cdb8cafd9c"
+  },
+  "currentNote": "408/操作系统/3.内存管理/2.虚拟内存管理.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 4700,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20224,
+    "contextWindow": 200000,
+    "contextTokens": 24924,
+    "percentage": 12
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779502175821-ppmlih45t",
+  "providerId": "claude",
+  "title": "Explain merge sort algorithm",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779502175821,
+  "updatedAt": 1779727845231,
+  "lastResponseAt": 1779502277525,
+  "sessionId": "1769965d-2c60-40a2-846a-b409df1647bc",
+  "providerState": {
+    "providerSessionId": "1769965d-2c60-40a2-846a-b409df1647bc"
+  },
+  "currentNote": "408/数据结构/6.排序/5.归并排序.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 577,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31232,
+    "contextWindow": 200000,
+    "contextTokens": 31809,
+    "percentage": 16
+  }
+}

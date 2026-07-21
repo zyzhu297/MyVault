@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781795791554-4kabyfgy0",
+  "providerId": "claude",
+  "title": "补充条件转移指令中的比较",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781795791555,
+  "updatedAt": 1781873461359,
+  "lastResponseAt": 1781795833001,
+  "sessionId": "c3caeeee-7575-4893-81b8-d90f0e2356af",
+  "providerState": {
+    "providerSessionId": "c3caeeee-7575-4893-81b8-d90f0e2356af"
+  },
+  "currentNote": "408/计算机组成原理/2.数据的表示和运算/2.运算方法与运算电路.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1310,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34176,
+    "contextWindow": 200000,
+    "contextTokens": 35486,
+    "percentage": 18
+  }
+}

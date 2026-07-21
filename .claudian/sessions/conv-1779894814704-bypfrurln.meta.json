@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779894814704-bypfrurln",
+  "providerId": "claude",
+  "title": "补充408考纲内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779894814704,
+  "updatedAt": 1779894976236,
+  "lastResponseAt": 1779894925105,
+  "sessionId": "25ba90c5-8a25-4229-8c89-13a8f629899b",
+  "providerState": {
+    "providerSessionId": "25ba90c5-8a25-4229-8c89-13a8f629899b"
+  },
+  "currentNote": "408/计算机网络/1.计算机网络体系结构/2.计算机网络体系结构与参考模型.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 5246,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28800,
+    "contextWindow": 200000,
+    "contextTokens": 34046,
+    "percentage": 17
+  }
+}

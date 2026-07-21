@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784379821210-pjolzvayh",
+  "providerId": "claude",
+  "title": "Enrich document content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784379821211,
+  "updatedAt": 1784379870513,
+  "lastResponseAt": 1784379870513,
+  "sessionId": "67404a88-17ab-4832-ad47-d5744b669cd0",
+  "providerState": {
+    "providerSessionId": "67404a88-17ab-4832-ad47-d5744b669cd0"
+  },
+  "currentNote": "英语/转换表达.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 171,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22784,
+    "contextWindow": 1000000,
+    "contextTokens": 22955,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

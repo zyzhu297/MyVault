@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781785089467-733tkjefc",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781785089467,
+  "updatedAt": 1781788739305,
+  "lastResponseAt": 1781787115807,
+  "sessionId": "910ef92f-1bc3-448a-bc44-6ef0a156e2a9",
+  "providerState": {
+    "providerSessionId": "910ef92f-1bc3-448a-bc44-6ef0a156e2a9"
+  },
+  "currentNote": "408/计算机组成原理/4.指令系统/1.指令系统.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1857,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41728,
+    "contextWindow": 200000,
+    "contextTokens": 43585,
+    "percentage": 22
+  }
+}

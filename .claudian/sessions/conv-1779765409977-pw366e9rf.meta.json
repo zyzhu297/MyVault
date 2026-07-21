@@ -1,0 +1,22 @@
+{
+  "id": "conv-1779765409977-pw366e9rf",
+  "providerId": "claude",
+  "title": "Diagram exceptions vs interrupts",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779765409977,
+  "updatedAt": 1779765714927,
+  "lastResponseAt": 1779765540988,
+  "sessionId": "d43a9869-4be3-4f26-9ddd-9dd378dc5cc3",
+  "providerState": {
+    "providerSessionId": "d43a9869-4be3-4f26-9ddd-9dd378dc5cc3"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 623,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29568,
+    "contextWindow": 200000,
+    "contextTokens": 30191,
+    "percentage": 15
+  }
+}

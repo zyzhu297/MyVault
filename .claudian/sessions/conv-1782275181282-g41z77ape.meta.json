@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782275181282-g41z77ape",
+  "providerId": "claude",
+  "title": "Supplement missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782275181282,
+  "updatedAt": 1782285483805,
+  "lastResponseAt": 1782282046377,
+  "sessionId": "1246e666-d4fe-4022-915f-5b9d9c9587a5",
+  "providerState": {
+    "providerSessionId": "1246e666-d4fe-4022-915f-5b9d9c9587a5"
+  },
+  "currentNote": "408/计算机组成原理/6.总线/1.总线概述.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 268,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 82432,
+    "contextWindow": 200000,
+    "contextTokens": 82700,
+    "percentage": 41
+  }
+}

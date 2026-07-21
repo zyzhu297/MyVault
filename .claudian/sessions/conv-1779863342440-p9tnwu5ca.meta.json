@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779863342440-p9tnwu5ca",
+  "providerId": "claude",
+  "title": "Supplement document content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779863342440,
+  "updatedAt": 1779874030969,
+  "lastResponseAt": 1779863381004,
+  "sessionId": "52709af3-70be-498c-8358-f1d88321e3f4",
+  "providerState": {
+    "providerSessionId": "52709af3-70be-498c-8358-f1d88321e3f4"
+  },
+  "currentNote": "1.进程和线程.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 96,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23040,
+    "contextWindow": 200000,
+    "contextTokens": 23136,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

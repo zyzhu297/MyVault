@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780393648341-9my0ixeum",
+  "providerId": "claude",
+  "title": "Supplement page buffer algorithm and two linked...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780393648342,
+  "updatedAt": 1780452721939,
+  "lastResponseAt": 1780409034004,
+  "sessionId": "c28c14b3-4824-4337-a41d-58a340edacdb",
+  "providerState": {
+    "providerSessionId": "c28c14b3-4824-4337-a41d-58a340edacdb"
+  },
+  "currentNote": "408/操作系统/3.内存管理/2.虚拟内存管理.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 453,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 78976,
+    "contextWindow": 200000,
+    "contextTokens": 79429,
+    "percentage": 40
+  }
+}

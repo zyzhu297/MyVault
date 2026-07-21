@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782132686146-5j4rr4mvn",
+  "providerId": "claude",
+  "title": "Add missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782132686146,
+  "updatedAt": 1782142439390,
+  "lastResponseAt": 1782141596817,
+  "sessionId": "eff0704c-bf6c-488e-99fd-c6bc7a7142cc",
+  "providerState": {
+    "providerSessionId": "eff0704c-bf6c-488e-99fd-c6bc7a7142cc"
+  },
+  "currentNote": "408/计算机组成原理/5.中央处理器/4.控制器的功能和工作原理.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 685,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 115200,
+    "contextWindow": 200000,
+    "contextTokens": 115885,
+    "percentage": 58
+  }
+}

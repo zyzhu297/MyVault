@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780664859145-8olnen3aj",
+  "providerId": "claude",
+  "title": "Replace i/o controller with I/O interface",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780664859146,
+  "updatedAt": 1780766734832,
+  "lastResponseAt": 1780717530219,
+  "sessionId": "c1b5550e-64d7-4e33-b14e-a58a29239349",
+  "providerState": {
+    "providerSessionId": "c1b5550e-64d7-4e33-b14e-a58a29239349"
+  },
+  "currentNote": "408/操作系统/5.输入输出管理/1.输入输出管理概述.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1322,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 88576,
+    "contextWindow": 1000000,
+    "contextTokens": 89898,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}

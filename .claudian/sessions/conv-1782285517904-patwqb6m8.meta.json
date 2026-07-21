@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782285517904-patwqb6m8",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782285517904,
+  "updatedAt": 1782457788696,
+  "lastResponseAt": 1782285823180,
+  "sessionId": "9b58f057-3db4-488e-a9a2-c14c5eacddac",
+  "providerState": {
+    "providerSessionId": "9b58f057-3db4-488e-a9a2-c14c5eacddac"
+  },
+  "currentNote": "408/计算机组成原理/7.输入输出系统/1.输入输出系统基本概念.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1301,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30464,
+    "contextWindow": 200000,
+    "contextTokens": 31765,
+    "percentage": 16
+  }
+}

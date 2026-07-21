@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779874053375-i1a0bizqh",
+  "providerId": "claude",
+  "title": "Consolidate relationships into composition",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779874053375,
+  "updatedAt": 1779891850896,
+  "lastResponseAt": 1779874627691,
+  "sessionId": "5170ffd5-3aac-4066-9431-5109c2aab44a",
+  "providerState": {
+    "providerSessionId": "5170ffd5-3aac-4066-9431-5109c2aab44a"
+  },
+  "currentNote": "408/操作系统/2.进程与线程/2.线程.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 803,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34432,
+    "contextWindow": 200000,
+    "contextTokens": 35235,
+    "percentage": 18
+  }
+}

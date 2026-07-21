@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782570859146-gsmzmbpck",
+  "providerId": "claude",
+  "title": "Delete H1 heading, promote all others",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782570859146,
+  "updatedAt": 1782571665461,
+  "lastResponseAt": 1782571665461,
+  "sessionId": "63cd4c58-db90-406f-94b6-0190b6b4f690",
+  "providerState": {
+    "providerSessionId": "63cd4c58-db90-406f-94b6-0190b6b4f690"
+  },
+  "currentNote": "408/计算机网络/2.物理层/3.物理层设备.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 136,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38528,
+    "contextWindow": 200000,
+    "contextTokens": 38664,
+    "percentage": 19
+  }
+}

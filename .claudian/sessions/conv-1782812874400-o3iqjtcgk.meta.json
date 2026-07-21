@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782812874400-o3iqjtcgk",
+  "providerId": "claude",
+  "title": "Supplement project details",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782812874400,
+  "updatedAt": 1782819209568,
+  "lastResponseAt": 1782819209568,
+  "sessionId": "1cafbec1-2cf2-4953-88f9-57e4de9d2deb",
+  "providerState": {
+    "providerSessionId": "1cafbec1-2cf2-4953-88f9-57e4de9d2deb"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/8.数据链路层设备.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 726,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38272,
+    "contextWindow": 200000,
+    "contextTokens": 38998,
+    "percentage": 19
+  }
+}

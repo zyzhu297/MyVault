@@ -1,0 +1,22 @@
+{
+  "id": "conv-1780378745080-6309sazxj",
+  "providerId": "claude",
+  "title": "Draw rounding function with TikZ",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780378745080,
+  "updatedAt": 1780379886408,
+  "lastResponseAt": 1780378963952,
+  "sessionId": "cce27de6-7768-48fc-9f54-71dca8730c55",
+  "providerState": {
+    "providerSessionId": "cce27de6-7768-48fc-9f54-71dca8730c55"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 102,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24320,
+    "contextWindow": 200000,
+    "contextTokens": 24422,
+    "percentage": 12
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780059419239-iiito69c1",
+  "providerId": "claude",
+  "title": "Organize critical resources, sync, mutual exclu...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780059419239,
+  "updatedAt": 1780061225536,
+  "lastResponseAt": 1780061166854,
+  "sessionId": "49cffba9-2cc7-4d93-a13c-9659bfc5a18e",
+  "providerState": {
+    "providerSessionId": "49cffba9-2cc7-4d93-a13c-9659bfc5a18e"
+  },
+  "currentNote": "408/操作系统/2.进程与线程/4.同步与互斥.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 933,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 53504,
+    "contextWindow": 200000,
+    "contextTokens": 54437,
+    "percentage": 27
+  }
+}

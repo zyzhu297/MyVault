@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781879105594-t0dxwwhw6",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781879105594,
+  "updatedAt": 1781960148575,
+  "lastResponseAt": 1781880194044,
+  "sessionId": "4951986a-c282-4d8b-aa60-b0eac9779ed8",
+  "providerState": {
+    "providerSessionId": "4951986a-c282-4d8b-aa60-b0eac9779ed8"
+  },
+  "currentNote": "408/计算机组成原理/4.指令系统/4.CISC 和 RISC 的基本概念.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1712,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24192,
+    "contextWindow": 200000,
+    "contextTokens": 25904,
+    "percentage": 13
+  }
+}

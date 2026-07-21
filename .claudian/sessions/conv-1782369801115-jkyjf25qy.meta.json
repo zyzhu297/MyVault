@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782369801115-jkyjf25qy",
+  "providerId": "claude",
+  "title": "补充对话内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782369801115,
+  "updatedAt": 1782457786747,
+  "lastResponseAt": 1782379036160,
+  "sessionId": "7a009c39-347d-43cf-a8df-96de7f6617bd",
+  "providerState": {
+    "providerSessionId": "7a009c39-347d-43cf-a8df-96de7f6617bd"
+  },
+  "currentNote": "408/计算机组成原理/7.输入输出系统/3.输入输出方式.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 4633,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 72704,
+    "contextWindow": 200000,
+    "contextTokens": 77337,
+    "percentage": 39
+  }
+}

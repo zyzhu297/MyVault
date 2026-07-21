@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780807389065-1kje8iusn",
+  "providerId": "claude",
+  "title": "Add spaces between English and Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780807389065,
+  "updatedAt": 1781069016032,
+  "lastResponseAt": 1780912308177,
+  "sessionId": "379e415a-3b43-40af-a4ae-2732125d448b",
+  "providerState": {
+    "providerSessionId": "379e415a-3b43-40af-a4ae-2732125d448b"
+  },
+  "currentNote": "408/操作系统/5.输入输出管理/3.磁盘和固态硬盘.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 286,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 79104,
+    "contextWindow": 1000000,
+    "contextTokens": 79390,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

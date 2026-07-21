@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782623551333-cm2frl78p",
+  "providerId": "claude",
+  "title": "Explain framing and transparent transmission",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782623551333,
+  "updatedAt": 1782627058484,
+  "lastResponseAt": 1782627050796,
+  "sessionId": "12215a97-b6aa-41a2-9f2a-a25c0a9f0637",
+  "providerState": {
+    "providerSessionId": "12215a97-b6aa-41a2-9f2a-a25c0a9f0637"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/1.数据链路层的功能.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 155,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41216,
+    "contextWindow": 200000,
+    "contextTokens": 41371,
+    "percentage": 21
+  }
+}

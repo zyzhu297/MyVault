@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779428405845-jbhwyblii",
+  "providerId": "claude",
+  "title": "Supplement content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779428405845,
+  "updatedAt": 1779436719857,
+  "lastResponseAt": 1779428454249,
+  "sessionId": "77b6fdaf-ae6e-49f1-9d2e-caf2ab06564c",
+  "providerState": {
+    "providerSessionId": "77b6fdaf-ae6e-49f1-9d2e-caf2ab06564c"
+  },
+  "currentNote": "408/数据结构/6.排序/2.插入排序.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 103,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25600,
+    "contextWindow": 200000,
+    "contextTokens": 25703,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

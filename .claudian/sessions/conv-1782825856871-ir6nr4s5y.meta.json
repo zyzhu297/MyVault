@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782825856871-ir6nr4s5y",
+  "providerId": "claude",
+  "title": "Review essay and suggest improvements",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782825856871,
+  "updatedAt": 1782888983961,
+  "lastResponseAt": 1782825884207,
+  "sessionId": "97610c61-0bc2-4351-ae0d-86d07a98a0b0",
+  "providerState": {
+    "providerSessionId": "97610c61-0bc2-4351-ae0d-86d07a98a0b0"
+  },
+  "currentNote": "英语/作文.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 289,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20224,
+    "contextWindow": 200000,
+    "contextTokens": 20513,
+    "percentage": 10
+  }
+}

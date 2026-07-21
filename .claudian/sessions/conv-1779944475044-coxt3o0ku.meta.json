@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779944475044-coxt3o0ku",
+  "providerId": "claude",
+  "title": "Add exponent-gamma relation for e^{-t} and e^{-2t}",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779944475044,
+  "updatedAt": 1779952623031,
+  "lastResponseAt": 1779951451370,
+  "sessionId": "87b0f457-365a-4889-a150-82cec596430c",
+  "providerState": {
+    "providerSessionId": "87b0f457-365a-4889-a150-82cec596430c"
+  },
+  "currentNote": "数学/高等数学/Γ函数.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1531,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25856,
+    "contextWindow": 200000,
+    "contextTokens": 27387,
+    "percentage": 14
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778653624098-ax8fqwp6a",
+  "providerId": "claude",
+  "title": "Derive tridiagonal k-i-j relations",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778653624098,
+  "updatedAt": 1778748228864,
+  "lastResponseAt": 1778657618549,
+  "sessionId": "906cd832-5fe7-4f4e-a16a-4dddd1c09955",
+  "providerState": {
+    "providerSessionId": "906cd832-5fe7-4f4e-a16a-4dddd1c09955"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1308,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27392,
+    "contextWindow": 200000,
+    "contextTokens": 28700,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779208077076-k63oq3ge0",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779208077076,
+  "updatedAt": 1779208114439,
+  "lastResponseAt": 1779208114439,
+  "sessionId": "d06d9e1f-4ee1-407d-9ad9-f59f599d829c",
+  "providerState": {
+    "providerSessionId": "d06d9e1f-4ee1-407d-9ad9-f59f599d829c"
+  },
+  "currentNote": "408/数据结构/5.查找/2.线性查找.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 143,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22656,
+    "contextWindow": 200000,
+    "contextTokens": 22799,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

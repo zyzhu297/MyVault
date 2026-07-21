@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779763411961-lqgeqn5gl",
+  "providerId": "claude",
+  "title": "补充文档内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779763411961,
+  "updatedAt": 1779775107829,
+  "lastResponseAt": 1779773173930,
+  "sessionId": "a0378f49-2a51-48b1-97f8-b390da181ee0",
+  "providerState": {
+    "providerSessionId": "a0378f49-2a51-48b1-97f8-b390da181ee0"
+  },
+  "currentNote": "408/操作系统/1.计算机系统概述/3.操作系统的运行环境.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1287,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 60544,
+    "contextWindow": 200000,
+    "contextTokens": 61831,
+    "percentage": 31
+  }
+}

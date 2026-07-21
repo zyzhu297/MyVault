@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783066798480-7r2weo6zx",
+  "providerId": "claude",
+  "title": "补充缺失内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783066798480,
+  "updatedAt": 1783069664206,
+  "lastResponseAt": 1783068981059,
+  "sessionId": "2a194801-d7e2-4f7b-aab7-bef40bac712c",
+  "providerState": {
+    "providerSessionId": "2a194801-d7e2-4f7b-aab7-bef40bac712c"
+  },
+  "currentNote": "408/计算机网络/4.网络层/3.IPv6.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2025,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 69248,
+    "contextWindow": 200000,
+    "contextTokens": 71273,
+    "percentage": 36
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781075082916-wx51d7i9e",
+  "providerId": "claude",
+  "title": "补充缺失内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781075082917,
+  "updatedAt": 1781244368385,
+  "lastResponseAt": 1781075176231,
+  "sessionId": "af5c5a23-a906-4641-926c-6ff7a80eb0ed",
+  "providerState": {
+    "providerSessionId": "af5c5a23-a906-4641-926c-6ff7a80eb0ed"
+  },
+  "currentNote": "408/计算机组成原理/1.计算机概述/3.计算机性能指标.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 3788,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26752,
+    "contextWindow": 200000,
+    "contextTokens": 30540,
+    "percentage": 15
+  }
+}

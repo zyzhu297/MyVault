@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782571861415-p7tilcsir",
+  "providerId": "claude",
+  "title": "Explain baseband, band, and broadband transmission",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782571861415,
+  "updatedAt": 1782623535256,
+  "lastResponseAt": 1782571905473,
+  "sessionId": "07218eb3-7404-4391-acf5-9000c40c35e9",
+  "providerState": {
+    "providerSessionId": "07218eb3-7404-4391-acf5-9000c40c35e9"
+  },
+  "currentNote": "408/计算机网络/2.物理层/1.通信基础.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 3873,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20480,
+    "contextWindow": 1000000,
+    "contextTokens": 24353,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781960180959-p4l04qr4p",
+  "providerId": "claude",
+  "title": "Complete missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781960180959,
+  "updatedAt": 1781962764271,
+  "lastResponseAt": 1781961668136,
+  "sessionId": "78c00506-c548-4e96-a1dd-1476fa8f757a",
+  "providerState": {
+    "providerSessionId": "78c00506-c548-4e96-a1dd-1476fa8f757a"
+  },
+  "currentNote": "408/计算机组成原理/5.中央处理器/1.CPU 的功能和基本结构.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 327,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 72320,
+    "contextWindow": 200000,
+    "contextTokens": 72647,
+    "percentage": 36
+  }
+}

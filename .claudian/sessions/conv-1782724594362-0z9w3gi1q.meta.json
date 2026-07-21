@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782724594362-0z9w3gi1q",
+  "providerId": "claude",
+  "title": "Replace code block with table",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782724594362,
+  "updatedAt": 1782724648778,
+  "lastResponseAt": 1782724618108,
+  "sessionId": "7f9ab6ce-1a2b-4b48-945a-c79cd427cadf",
+  "providerState": {
+    "providerSessionId": "7f9ab6ce-1a2b-4b48-945a-c79cd427cadf"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/5.介质访问控制.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1264,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21248,
+    "contextWindow": 1000000,
+    "contextTokens": 22512,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

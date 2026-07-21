@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778521002763-9szhmbmkl",
+  "providerId": "claude",
+  "title": "Create English-Chinese bilingual layout",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778521002763,
+  "updatedAt": 1778653549447,
+  "lastResponseAt": 1778521017286,
+  "sessionId": "5bd91afc-19a1-469a-8ad6-02453624cd11",
+  "providerState": {
+    "providerSessionId": "5bd91afc-19a1-469a-8ad6-02453624cd11"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 514,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20224,
+    "contextWindow": 200000,
+    "contextTokens": 20738,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

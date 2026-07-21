@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780061287052-hvs6dcmrg",
+  "providerId": "claude",
+  "title": "Implement mutual exclusion using code blocks",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780061287052,
+  "updatedAt": 1780142303618,
+  "lastResponseAt": 1780114319982,
+  "sessionId": "9947e983-4109-4b5f-aaa9-657936d0816e",
+  "providerState": {
+    "providerSessionId": "9947e983-4109-4b5f-aaa9-657936d0816e"
+  },
+  "currentNote": "408/操作系统/2.进程与线程/4.同步与互斥.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 3778,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 150144,
+    "contextWindow": 1000000,
+    "contextTokens": 153922,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

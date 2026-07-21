@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781455226983-1nmoyc7nz",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781455226983,
+  "updatedAt": 1781619378377,
+  "lastResponseAt": 1781455269733,
+  "sessionId": "b2a9ea9c-349d-42e9-8ef6-8b5049c0f045",
+  "providerState": {
+    "providerSessionId": "b2a9ea9c-349d-42e9-8ef6-8b5049c0f045"
+  },
+  "currentNote": "408/计算机组成原理/3.存储系统/3.主存储器与 CPU 的连接.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 86,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22912,
+    "contextWindow": 200000,
+    "contextTokens": 22998,
+    "percentage": 11
+  }
+}

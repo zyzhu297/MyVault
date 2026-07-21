@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780217160047-7uff8iorc",
+  "providerId": "claude",
+  "title": "List three linking and three loading methods",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780217160047,
+  "updatedAt": 1780247855088,
+  "lastResponseAt": 1780247034290,
+  "sessionId": "6fc16164-882a-4ff7-aa82-040e60217b3a",
+  "providerState": {
+    "providerSessionId": "6fc16164-882a-4ff7-aa82-040e60217b3a"
+  },
+  "currentNote": "408/操作系统/3.内存管理/1.内存管理概念/1.内存管理概念.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 181,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 199808,
+    "contextWindow": 200000,
+    "contextTokens": 199989,
+    "percentage": 100
+  }
+}

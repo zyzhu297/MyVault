@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781069068621-mf9aylny2",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781069068621,
+  "updatedAt": 1781069337972,
+  "lastResponseAt": 1781069098975,
+  "sessionId": "993e336e-56fa-4ed8-940e-0ba007a4fe4d",
+  "providerState": {
+    "providerSessionId": "993e336e-56fa-4ed8-940e-0ba007a4fe4d"
+  },
+  "currentNote": "408/计算机组成原理/1.计算机概述/1.计算机发展历程.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1170,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20352,
+    "contextWindow": 200000,
+    "contextTokens": 21522,
+    "percentage": 11
+  }
+}

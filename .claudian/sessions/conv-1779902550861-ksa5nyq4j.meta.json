@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779902550861-ksa5nyq4j",
+  "providerId": "claude",
+  "title": "Delete heading and promote others",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779902550861,
+  "updatedAt": 1779944394931,
+  "lastResponseAt": 1779902648731,
+  "sessionId": "4febc787-bef0-4c69-b59d-ee25b9b45644",
+  "providerState": {
+    "providerSessionId": "4febc787-bef0-4c69-b59d-ee25b9b45644"
+  },
+  "currentNote": "408/操作系统/2.进程与线程/3.CPU 调度.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 5450,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30592,
+    "contextWindow": 200000,
+    "contextTokens": 36042,
+    "percentage": 18
+  }
+}

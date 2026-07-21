@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779354511332-zbok2m2m2",
+  "providerId": "claude",
+  "title": "Supplement hash table beyond basics",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779354511332,
+  "updatedAt": 1779354561290,
+  "lastResponseAt": 1779354561290,
+  "sessionId": "a0a8db23-afe9-41cc-8ed9-c976ce0aa9be",
+  "providerState": {
+    "providerSessionId": "a0a8db23-afe9-41cc-8ed9-c976ce0aa9be"
+  },
+  "currentNote": "408/数据结构/5.查找/4.散列表.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1874,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23552,
+    "contextWindow": 200000,
+    "contextTokens": 25426,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

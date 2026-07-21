@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779510746607-2rxznx2bn",
+  "providerId": "claude",
+  "title": "总结排序算法特点与优劣",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779510746607,
+  "updatedAt": 1779718380274,
+  "lastResponseAt": 1779525820528,
+  "sessionId": "9f20015c-fea0-484a-884c-903078b3eda8",
+  "providerState": {
+    "providerSessionId": "9f20015c-fea0-484a-884c-903078b3eda8"
+  },
+  "currentNote": "408/数据结构/6.排序/8.内部排序比较.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1407,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 80384,
+    "contextWindow": 200000,
+    "contextTokens": 81791,
+    "percentage": 41
+  }
+}

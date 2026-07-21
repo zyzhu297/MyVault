@@ -1,0 +1,22 @@
+{
+  "id": "conv-1779895303482-fopm54asl",
+  "providerId": "claude",
+  "title": "Format responses with unnumbered headings",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779895303482,
+  "updatedAt": 1779895686483,
+  "lastResponseAt": 1779895663994,
+  "sessionId": "c60642bc-0948-4a1d-87c7-ba40b199b9e5",
+  "providerState": {
+    "providerSessionId": "c60642bc-0948-4a1d-87c7-ba40b199b9e5"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 149,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 61952,
+    "contextWindow": 200000,
+    "contextTokens": 62101,
+    "percentage": 31
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781356860947-w9s4ktge8",
+  "providerId": "claude",
+  "title": "Add missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781356860947,
+  "updatedAt": 1781443211664,
+  "lastResponseAt": 1781361501832,
+  "sessionId": "a9b414f2-3bed-4a5d-9144-1f0d7aa5adb9",
+  "providerState": {
+    "providerSessionId": "a9b414f2-3bed-4a5d-9144-1f0d7aa5adb9"
+  },
+  "currentNote": "408/计算机组成原理/2.数据的表示和运算/3.浮点数的表示与运算.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1363,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 101248,
+    "contextWindow": 200000,
+    "contextTokens": 102611,
+    "percentage": 51
+  }
+}

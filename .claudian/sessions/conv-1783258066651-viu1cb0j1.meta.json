@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783258066651-viu1cb0j1",
+  "providerId": "claude",
+  "title": "Add supplementary information",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783258066651,
+  "updatedAt": 1783260946410,
+  "lastResponseAt": 1783259181731,
+  "sessionId": "0ea54909-9677-456f-a461-7f0c67df0c36",
+  "providerState": {
+    "providerSessionId": "0ea54909-9677-456f-a461-7f0c67df0c36"
+  },
+  "currentNote": "408/计算机网络/4.网络层/7.网络层设备.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 849,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 48128,
+    "contextWindow": 200000,
+    "contextTokens": 48977,
+    "percentage": 24
+  }
+}

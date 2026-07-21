@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779900849258-pjdtfebfd",
+  "providerId": "claude",
+  "title": "Supplement content per 408 syllabus",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779900849258,
+  "updatedAt": 1779952622776,
+  "lastResponseAt": 1779900967636,
+  "sessionId": "067be59b-715f-45b6-bae3-9e99aff6ceae",
+  "providerState": {
+    "providerSessionId": "067be59b-715f-45b6-bae3-9e99aff6ceae"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/2.组帧.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 4575,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30848,
+    "contextWindow": 200000,
+    "contextTokens": 35423,
+    "percentage": 18
+  }
+}

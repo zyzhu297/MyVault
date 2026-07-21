@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780379388754-4ex1s56o1",
+  "providerId": "claude",
+  "title": "补充三角函数及常见变换公式",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780379388754,
+  "updatedAt": 1780388445180,
+  "lastResponseAt": 1780379910705,
+  "sessionId": "25315f82-8e86-4081-82c3-140d0dce7709",
+  "providerState": {
+    "providerSessionId": "25315f82-8e86-4081-82c3-140d0dce7709"
+  },
+  "currentNote": "数学/高等数学/1.函数、极限、连续/三角函数.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 4714,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36352,
+    "contextWindow": 200000,
+    "contextTokens": 41066,
+    "percentage": 21
+  }
+}

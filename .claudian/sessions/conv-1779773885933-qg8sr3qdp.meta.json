@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779773885933-qg8sr3qdp",
+  "providerId": "claude",
+  "title": "Supplement document content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779773885933,
+  "updatedAt": 1779892361692,
+  "lastResponseAt": 1779774026259,
+  "sessionId": "0cdf5b14-6a97-4400-b388-4e8311bf2dfa",
+  "providerState": {
+    "providerSessionId": "0cdf5b14-6a97-4400-b388-4e8311bf2dfa"
+  },
+  "currentNote": "408/操作系统/1.计算机系统概述/4.操作系统结构.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 123,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30848,
+    "contextWindow": 200000,
+    "contextTokens": 30971,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

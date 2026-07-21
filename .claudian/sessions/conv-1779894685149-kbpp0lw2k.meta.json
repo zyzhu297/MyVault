@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779894685149-kbpp0lw2k",
+  "providerId": "claude",
+  "title": "补充408考纲内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779894685149,
+  "updatedAt": 1779894811183,
+  "lastResponseAt": 1779894758838,
+  "sessionId": "ffb5e4bc-0df3-47c2-a70e-ce8feeb4c1ba",
+  "providerState": {
+    "providerSessionId": "ffb5e4bc-0df3-47c2-a70e-ce8feeb4c1ba"
+  },
+  "currentNote": "408/计算机网络/1.计算机网络体系结构/1.计算机网络概述.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 174,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24064,
+    "contextWindow": 200000,
+    "contextTokens": 24238,
+    "percentage": 12
+  }
+}

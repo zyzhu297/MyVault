@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780379961102-zcl4udwrv",
+  "providerId": "claude",
+  "title": "Compile Taylor expansion formulas for functions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780379961102,
+  "updatedAt": 1780380363511,
+  "lastResponseAt": 1780380000986,
+  "sessionId": "f15911da-d2fb-4656-bdda-3813fff00a2e",
+  "providerState": {
+    "providerSessionId": "f15911da-d2fb-4656-bdda-3813fff00a2e"
+  },
+  "currentNote": "数学/高等数学/1.函数、极限、连续/泰勒公式.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 148,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22400,
+    "contextWindow": 200000,
+    "contextTokens": 22548,
+    "percentage": 11
+  }
+}

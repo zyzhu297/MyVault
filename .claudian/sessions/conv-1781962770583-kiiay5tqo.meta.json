@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781962770583-kiiay5tqo",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781962770583,
+  "updatedAt": 1781966354865,
+  "lastResponseAt": 1781965362827,
+  "sessionId": "c32109eb-a35c-439f-aacd-e6a0c17144bd",
+  "providerState": {
+    "providerSessionId": "c32109eb-a35c-439f-aacd-e6a0c17144bd"
+  },
+  "currentNote": "408/计算机组成原理/5.中央处理器/2.指令执行过程.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 455,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 50176,
+    "contextWindow": 200000,
+    "contextTokens": 50631,
+    "percentage": 25
+  }
+}

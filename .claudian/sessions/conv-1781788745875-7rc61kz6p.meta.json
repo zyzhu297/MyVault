@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781788745875-7rc61kz6p",
+  "providerId": "claude",
+  "title": "补充缺失内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781788745875,
+  "updatedAt": 1781792185675,
+  "lastResponseAt": 1781792185675,
+  "sessionId": "26214124-f8f4-4dff-984f-24096479bf3b",
+  "providerState": {
+    "providerSessionId": "26214124-f8f4-4dff-984f-24096479bf3b"
+  },
+  "currentNote": "408/计算机组成原理/4.指令系统/2.寻址方式.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 880,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 47744,
+    "contextWindow": 200000,
+    "contextTokens": 48624,
+    "percentage": 24
+  }
+}

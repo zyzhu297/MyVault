@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782888985982-dqhddvuvu",
+  "providerId": "claude",
+  "title": "Supplement missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782888985982,
+  "updatedAt": 1782898024312,
+  "lastResponseAt": 1782898024312,
+  "sessionId": "27803f65-543c-486c-88ef-607b4cafed53",
+  "providerState": {
+    "providerSessionId": "27803f65-543c-486c-88ef-607b4cafed53"
+  },
+  "currentNote": "408/计算机网络/4.网络层/1.网络层的功能.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 695,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 64512,
+    "contextWindow": 200000,
+    "contextTokens": 65207,
+    "percentage": 33
+  }
+}

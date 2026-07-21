@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780806829780-lnqj5yris",
+  "providerId": "claude",
+  "title": "添加中英文之间的空格",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780806829781,
+  "updatedAt": 1780906393740,
+  "lastResponseAt": 1780822613358,
+  "sessionId": "3ff41661-af25-4984-8a18-59f26811084f",
+  "providerState": {
+    "providerSessionId": "3ff41661-af25-4984-8a18-59f26811084f"
+  },
+  "currentNote": "408/操作系统/5.输入输出管理/2.设备独立性软件.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 180,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 154752,
+    "contextWindow": 200000,
+    "contextTokens": 154932,
+    "percentage": 77
+  }
+}

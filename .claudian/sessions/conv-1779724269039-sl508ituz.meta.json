@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779724269039-sl508ituz",
+  "providerId": "claude",
+  "title": "Supplement content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779724269040,
+  "updatedAt": 1779727842623,
+  "lastResponseAt": 1779727815586,
+  "sessionId": "3c6ab0d4-bf61-4261-a31e-9acfa687f304",
+  "providerState": {
+    "providerSessionId": "3c6ab0d4-bf61-4261-a31e-9acfa687f304"
+  },
+  "currentNote": "408/操作系统/1.计算机系统概述/2.操作系统发展历程.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 767,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28160,
+    "contextWindow": 200000,
+    "contextTokens": 28927,
+    "percentage": 14
+  }
+}

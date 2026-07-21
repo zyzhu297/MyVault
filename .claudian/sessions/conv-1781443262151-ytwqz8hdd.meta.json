@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781443262151-ytwqz8hdd",
+  "providerId": "claude",
+  "title": "Supplement missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781443262151,
+  "updatedAt": 1781446220574,
+  "lastResponseAt": 1781445763269,
+  "sessionId": "cc1612e2-2bb5-41b1-9a19-fbeffcb6bac2",
+  "providerState": {
+    "providerSessionId": "cc1612e2-2bb5-41b1-9a19-fbeffcb6bac2"
+  },
+  "currentNote": "408/计算机组成原理/3.存储系统/1.存储器概述.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 4883,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37760,
+    "contextWindow": 200000,
+    "contextTokens": 42643,
+    "percentage": 21
+  }
+}

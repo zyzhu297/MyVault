@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783262493226-5ecchxi7y",
+  "providerId": "claude",
+  "title": "Supplement the previous response with more details",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783262493226,
+  "updatedAt": 1783322150173,
+  "lastResponseAt": 1783262589166,
+  "sessionId": "a3205bf4-28e2-4c79-9fc9-429caa8e1173",
+  "providerState": {
+    "providerSessionId": "a3205bf4-28e2-4c79-9fc9-429caa8e1173"
+  },
+  "currentNote": "408/计算机网络/5.传输层/2.UDP.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 98,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30336,
+    "contextWindow": 200000,
+    "contextTokens": 30434,
+    "percentage": 15
+  }
+}

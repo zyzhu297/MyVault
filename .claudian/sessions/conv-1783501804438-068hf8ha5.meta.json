@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783501804438-068hf8ha5",
+  "providerId": "claude",
+  "title": "总结应用层协议、服务与端口号",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783501804438,
+  "updatedAt": 1784224124201,
+  "lastResponseAt": 1783501854687,
+  "sessionId": "37c35bbf-4452-4952-ac1a-79d09318a009",
+  "providerState": {
+    "providerSessionId": "37c35bbf-4452-4952-ac1a-79d09318a009"
+  },
+  "currentNote": "408/计算机网络/6.应用层/未命名.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 217,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 51456,
+    "contextWindow": 200000,
+    "contextTokens": 51673,
+    "percentage": 26
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783322159182-yyudc0qa8",
+  "providerId": "claude",
+  "title": "Supplement content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783322159182,
+  "updatedAt": 1783429225017,
+  "lastResponseAt": 1783346489564,
+  "sessionId": "26aec58e-908d-454a-a066-85defdad28fb",
+  "providerState": {
+    "providerSessionId": "26aec58e-908d-454a-a066-85defdad28fb"
+  },
+  "currentNote": "408/计算机网络/5.传输层/3.TCP.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2292,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 74624,
+    "contextWindow": 200000,
+    "contextTokens": 76916,
+    "percentage": 38
+  }
+}

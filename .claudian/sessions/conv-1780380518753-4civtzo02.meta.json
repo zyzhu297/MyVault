@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780380518753-4civtzo02",
+  "providerId": "claude",
+  "title": "Add limit sign-preserving and integral methods",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780380518753,
+  "updatedAt": 1780388444859,
+  "lastResponseAt": 1780380578380,
+  "sessionId": "4b195644-1848-4a47-b152-c77301ea92ec",
+  "providerState": {
+    "providerSessionId": "4b195644-1848-4a47-b152-c77301ea92ec"
+  },
+  "currentNote": "数学/高等数学/1.函数、极限、连续/极限.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2155,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20608,
+    "contextWindow": 200000,
+    "contextTokens": 22763,
+    "percentage": 11
+  }
+}

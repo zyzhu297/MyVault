@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780247719237-y8stuy7zp",
+  "providerId": "claude",
+  "title": "Promote all headings by one level",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780247719237,
+  "updatedAt": 1780284171976,
+  "lastResponseAt": 1780247832613,
+  "sessionId": "910efffb-568a-4c07-b897-952bc7043ef9",
+  "providerState": {
+    "providerSessionId": "910efffb-568a-4c07-b897-952bc7043ef9"
+  },
+  "currentNote": "408/操作系统/3.内存管理/1.内存管理概念/连续分配管理方式.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 28530,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 28530,
+    "percentage": 14
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "conv-1779893296176-r306yh5wx",
+  "providerId": "claude",
+  "title": "补充408考纲内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779893296176,
+  "updatedAt": 1779894682947,
+  "lastResponseAt": 1779894580949,
+  "sessionId": "209e653e-3ce9-4152-8269-244ab9e7f1ff",
+  "providerState": {
+    "providerSessionId": "209e653e-3ce9-4152-8269-244ab9e7f1ff"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 121,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36992,
+    "contextWindow": 200000,
+    "contextTokens": 37113,
+    "percentage": 19
+  }
+}

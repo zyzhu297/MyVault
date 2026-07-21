@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779207575531-jr63p15z9",
+  "providerId": "claude",
+  "title": "Supplement average search length content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779207575531,
+  "updatedAt": 1779208069355,
+  "lastResponseAt": 1779207590014,
+  "sessionId": "058a8741-ea8b-4e1d-a485-7c6754707f5f",
+  "providerState": {
+    "providerSessionId": "058a8741-ea8b-4e1d-a485-7c6754707f5f"
+  },
+  "currentNote": "408/数据结构/5.查找/1.查找的基本概念.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 835,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19968,
+    "contextWindow": 200000,
+    "contextTokens": 20803,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

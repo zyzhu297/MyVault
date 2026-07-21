@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780247858991-krh0mwwan",
+  "providerId": "claude",
+  "title": "Promote all headings one level",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780247858991,
+  "updatedAt": 1780247925150,
+  "lastResponseAt": 1780247887777,
+  "sessionId": "b968c6f6-9cd3-4b90-84cb-dc200623a8d1",
+  "providerState": {
+    "providerSessionId": "b968c6f6-9cd3-4b90-84cb-dc200623a8d1"
+  },
+  "currentNote": "408/操作系统/3.内存管理/1.内存管理概念/内存管理的基本原理和要求.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 245,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26112,
+    "contextWindow": 200000,
+    "contextTokens": 26357,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

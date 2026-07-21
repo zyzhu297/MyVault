@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782904881360-ncczbsmmd",
+  "providerId": "claude",
+  "title": "Expand on the topic",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782904881360,
+  "updatedAt": 1783068872798,
+  "lastResponseAt": 1783065415995,
+  "sessionId": "0b1a8bf0-caa2-414a-9f6c-0438b7026f68",
+  "providerState": {
+    "providerSessionId": "0b1a8bf0-caa2-414a-9f6c-0438b7026f68"
+  },
+  "currentNote": "408/计算机网络/4.网络层/2.IPv4.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 740,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 114944,
+    "contextWindow": 1000000,
+    "contextTokens": 115684,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

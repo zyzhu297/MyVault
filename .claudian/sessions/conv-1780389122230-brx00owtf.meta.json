@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780389122230-brx00owtf",
+  "providerId": "claude",
+  "title": "Supplement page frame allocation content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780389122230,
+  "updatedAt": 1780393156939,
+  "lastResponseAt": 1780393156939,
+  "sessionId": "e9cd8d6d-5393-429a-acee-f6ad54d99d7a",
+  "providerState": {
+    "providerSessionId": "e9cd8d6d-5393-429a-acee-f6ad54d99d7a"
+  },
+  "currentNote": "408/操作系统/3.内存管理/2.虚拟内存管理.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1689,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44672,
+    "contextWindow": 200000,
+    "contextTokens": 46361,
+    "percentage": 23
+  }
+}

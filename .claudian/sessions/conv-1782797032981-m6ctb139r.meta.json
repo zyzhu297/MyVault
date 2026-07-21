@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782797032981-m6ctb139r",
+  "providerId": "claude",
+  "title": "Explain IEEE 802.1Q minimum frame length reduction",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782797032981,
+  "updatedAt": 1782798357730,
+  "lastResponseAt": 1782797256298,
+  "sessionId": "0146b486-b019-4bad-bb10-e6e3e0f1685a",
+  "providerState": {
+    "providerSessionId": "0146b486-b019-4bad-bb10-e6e3e0f1685a"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/6.局域网.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 989,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32640,
+    "contextWindow": 200000,
+    "contextTokens": 33629,
+    "percentage": 17
+  }
+}

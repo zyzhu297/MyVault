@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779432315924-27np36akt",
+  "providerId": "claude",
+  "title": "Supplement document content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779432315924,
+  "updatedAt": 1779432470379,
+  "lastResponseAt": 1779432470379,
+  "sessionId": "618ca22c-1ab0-4042-ae0b-342fbed8e9d6",
+  "providerState": {
+    "providerSessionId": "618ca22c-1ab0-4042-ae0b-342fbed8e9d6"
+  },
+  "currentNote": "408/数据结构/6.排序/3.交换排序.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 450,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24064,
+    "contextWindow": 200000,
+    "contextTokens": 24514,
+    "percentage": 12
+  }
+}

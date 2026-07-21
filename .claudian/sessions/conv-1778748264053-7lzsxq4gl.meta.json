@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778748264053-7lzsxq4gl",
+  "providerId": "claude",
+  "title": "Add explanation for last two tree properties",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778748264053,
+  "updatedAt": 1779208072755,
+  "lastResponseAt": 1778748323238,
+  "sessionId": "87f27f4c-80c5-4082-89fa-cdb9758e1f33",
+  "providerState": {
+    "providerSessionId": "87f27f4c-80c5-4082-89fa-cdb9758e1f33"
+  },
+  "currentNote": "408/数据结构/3.树/1.树.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 953,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24704,
+    "contextWindow": 200000,
+    "contextTokens": 25657,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

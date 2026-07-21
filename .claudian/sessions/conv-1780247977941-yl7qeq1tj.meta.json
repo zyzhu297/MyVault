@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780247977941-yl7qeq1tj",
+  "providerId": "claude",
+  "title": "Promote all headings by one level",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780247977941,
+  "updatedAt": 1780248334033,
+  "lastResponseAt": 1780248023979,
+  "sessionId": "8ac42945-4e84-469c-9faf-58bad2a984a9",
+  "providerState": {
+    "providerSessionId": "8ac42945-4e84-469c-9faf-58bad2a984a9"
+  },
+  "currentNote": "408/操作系统/3.内存管理/1.内存管理概念/3.基本分页存储管理.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1026,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28416,
+    "contextWindow": 200000,
+    "contextTokens": 29442,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

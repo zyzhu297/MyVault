@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783495432548-cj2nxqbqd",
+  "providerId": "claude",
+  "title": "Supplement request",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783495432548,
+  "updatedAt": 1783499078090,
+  "lastResponseAt": 1783499078090,
+  "sessionId": "65b84bd3-db34-4978-9361-c53405d9c514",
+  "providerState": {
+    "providerSessionId": "65b84bd3-db34-4978-9361-c53405d9c514"
+  },
+  "currentNote": "408/计算机网络/6.应用层/4.电子邮件.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 429,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 103680,
+    "contextWindow": 200000,
+    "contextTokens": 104109,
+    "percentage": 52
+  }
+}

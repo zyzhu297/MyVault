@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779895685770-g80fvacbt",
+  "providerId": "claude",
+  "title": "Define document formatting guidelines",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779895685770,
+  "updatedAt": 1779900973559,
+  "lastResponseAt": 1779895838089,
+  "sessionId": "fb206c4e-3c4e-43f8-8778-ca8d2e30caeb",
+  "providerState": {
+    "providerSessionId": "fb206c4e-3c4e-43f8-8778-ca8d2e30caeb"
+  },
+  "currentNote": "408/计算机网络/2.物理层/1.通信基础.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 7474,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29440,
+    "contextWindow": 200000,
+    "contextTokens": 36914,
+    "percentage": 18
+  }
+}

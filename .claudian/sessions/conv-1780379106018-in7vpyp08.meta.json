@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780379106018-in7vpyp08",
+  "providerId": "claude",
+  "title": "Explain four properties of functions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780379106018,
+  "updatedAt": 1780379248403,
+  "lastResponseAt": 1780379144524,
+  "sessionId": "ae4cd4e3-9de1-442d-a819-39b2604cb83e",
+  "providerState": {
+    "providerSessionId": "ae4cd4e3-9de1-442d-a819-39b2604cb83e"
+  },
+  "currentNote": "数学/高等数学/1.函数、极限、连续/函数的性态.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 90,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22016,
+    "contextWindow": 200000,
+    "contextTokens": 22106,
+    "percentage": 11
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781873465347-xn1iuyus5",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781873465347,
+  "updatedAt": 1781962766215,
+  "lastResponseAt": 1781876024883,
+  "sessionId": "5be83d3e-eb36-48ce-8397-eaa90e31939a",
+  "providerState": {
+    "providerSessionId": "5be83d3e-eb36-48ce-8397-eaa90e31939a"
+  },
+  "currentNote": "408/计算机组成原理/4.指令系统/3.程序的机器级代码表示.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1347,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 65792,
+    "contextWindow": 200000,
+    "contextTokens": 67139,
+    "percentage": 34
+  }
+}

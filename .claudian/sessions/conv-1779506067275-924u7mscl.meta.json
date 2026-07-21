@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779506067275-924u7mscl",
+  "providerId": "claude",
+  "title": "Add simple counting sort content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779506067275,
+  "updatedAt": 1779510721850,
+  "lastResponseAt": 1779506124251,
+  "sessionId": "17c53a0c-efa2-4091-b2a6-32178a390729",
+  "providerState": {
+    "providerSessionId": "17c53a0c-efa2-4091-b2a6-32178a390729"
+  },
+  "currentNote": "408/数据结构/6.排序/7.计数排序.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 184,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31232,
+    "contextWindow": 200000,
+    "contextTokens": 31416,
+    "percentage": 16
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779892371719-36d9xz1q9",
+  "providerId": "claude",
+  "title": "Add missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779892371719,
+  "updatedAt": 1779893281493,
+  "lastResponseAt": 1779892633289,
+  "sessionId": "e0b61244-f88b-443a-bde6-c46c1e76df4f",
+  "providerState": {
+    "providerSessionId": "e0b61244-f88b-443a-bde6-c46c1e76df4f"
+  },
+  "currentNote": "408/操作系统/3.内存管理/1.内存管理概念.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 4128,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36736,
+    "contextWindow": 200000,
+    "contextTokens": 40864,
+    "percentage": 20
+  }
+}

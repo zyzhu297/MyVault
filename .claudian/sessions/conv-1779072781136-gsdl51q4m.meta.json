@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779072781136-gsdl51q4m",
+  "providerId": "claude",
+  "title": "Fill in missing information",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779072781137,
+  "updatedAt": 1779208069033,
+  "lastResponseAt": 1779119319540,
+  "sessionId": "d00a2292-b08c-43d5-b565-bd897c6910bf",
+  "providerState": {
+    "providerSessionId": "d00a2292-b08c-43d5-b565-bd897c6910bf"
+  },
+  "currentNote": "408/数据结构/4.图/3.图的应用.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 753,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 76160,
+    "contextWindow": 200000,
+    "contextTokens": 76913,
+    "percentage": 38,
+    "contextWindowIsAuthoritative": true
+  }
+}

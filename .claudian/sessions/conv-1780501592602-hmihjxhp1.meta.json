@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780501592602-hmihjxhp1",
+  "providerId": "claude",
+  "title": "Generate content from title",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780501592602,
+  "updatedAt": 1780539043132,
+  "lastResponseAt": 1780504912666,
+  "sessionId": "b7475a7c-4cdf-4d99-8064-7026ecc7211e",
+  "providerState": {
+    "providerSessionId": "b7475a7c-4cdf-4d99-8064-7026ecc7211e"
+  },
+  "currentNote": "408/操作系统/4.文件管理/3.文件.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2520,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35712,
+    "contextWindow": 200000,
+    "contextTokens": 38232,
+    "percentage": 19
+  }
+}

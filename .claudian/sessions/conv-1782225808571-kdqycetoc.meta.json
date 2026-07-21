@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782225808571-kdqycetoc",
+  "providerId": "claude",
+  "title": "Modify lw, sw, beq, j to R-type/I-type format",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782225808571,
+  "updatedAt": 1782232534887,
+  "lastResponseAt": 1782232534887,
+  "sessionId": "9f455670-de2e-41d7-a2b9-8b55d6834f98",
+  "providerState": {
+    "providerSessionId": "9f455670-de2e-41d7-a2b9-8b55d6834f98"
+  },
+  "currentNote": "408/计算机组成原理/5.中央处理器/6.指令流水线.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 4816,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 94848,
+    "contextWindow": 200000,
+    "contextTokens": 99664,
+    "percentage": 50
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782462288655-v20x1i3iz",
+  "providerId": "claude",
+  "title": "提升计算机网络文档标题层级",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782462288655,
+  "updatedAt": 1782569972718,
+  "lastResponseAt": 1782464572831,
+  "sessionId": "1662833d-ed93-4b94-8c0c-83670f2bd4b6",
+  "providerState": {
+    "providerSessionId": "1662833d-ed93-4b94-8c0c-83670f2bd4b6"
+  },
+  "currentNote": "408/计算机网络/1.计算机网络体系结构/2.计算机网络体系结构与参考模型.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 791,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 65408,
+    "contextWindow": 200000,
+    "contextTokens": 66199,
+    "percentage": 33
+  }
+}

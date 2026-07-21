@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779765787412-80nn8b9ce",
+  "providerId": "claude",
+  "title": "Draw exception and interrupt classification dia...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779765787413,
+  "updatedAt": 1779767974869,
+  "lastResponseAt": 1779767725018,
+  "sessionId": "23d1499a-a5d8-42e1-a1f7-66e4aff20391",
+  "providerState": {
+    "providerSessionId": "23d1499a-a5d8-42e1-a1f7-66e4aff20391"
+  },
+  "currentNote": "Excalidraw/Drawing 2026-05-26 11.16.29.excalidraw.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 157,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 79488,
+    "contextWindow": 200000,
+    "contextTokens": 79645,
+    "percentage": 40
+  }
+}

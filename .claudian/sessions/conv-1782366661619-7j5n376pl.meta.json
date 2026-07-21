@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782366661619-7j5n376pl",
+  "providerId": "claude",
+  "title": "Expand on user request",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782366661619,
+  "updatedAt": 1782457787025,
+  "lastResponseAt": 1782367517038,
+  "sessionId": "49f84598-7410-4488-a2bc-5938081cb776",
+  "providerState": {
+    "providerSessionId": "49f84598-7410-4488-a2bc-5938081cb776"
+  },
+  "currentNote": "408/计算机组成原理/7.输入输出系统/2.输入输出接口.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 653,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30592,
+    "contextWindow": 200000,
+    "contextTokens": 31245,
+    "percentage": 16
+  }
+}

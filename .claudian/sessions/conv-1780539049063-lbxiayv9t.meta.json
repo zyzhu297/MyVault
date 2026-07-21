@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780539049063-lbxiayv9t",
+  "providerId": "claude",
+  "title": "Explain complete file opening process",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780539049063,
+  "updatedAt": 1780589550780,
+  "lastResponseAt": 1780550886201,
+  "sessionId": "46aca74a-0b31-4905-aa92-3c39572fc8b8",
+  "providerState": {
+    "providerSessionId": "46aca74a-0b31-4905-aa92-3c39572fc8b8"
+  },
+  "currentNote": "408/操作系统/4.文件管理/3.文件.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 415,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 57600,
+    "contextWindow": 200000,
+    "contextTokens": 58015,
+    "percentage": 29
+  }
+}

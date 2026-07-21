@@ -1,0 +1,22 @@
+{
+  "id": "conv-1779900982083-1fuj4phn5",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779900982083,
+  "updatedAt": 1779944395339,
+  "lastResponseAt": 1779902436086,
+  "sessionId": "97760bad-e1b0-4640-97bd-9a6492ce1c15",
+  "providerState": {
+    "providerSessionId": "97760bad-e1b0-4640-97bd-9a6492ce1c15"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 180,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 99584,
+    "contextWindow": 200000,
+    "contextTokens": 99764,
+    "percentage": 50
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783432160109-1hzospi60",
+  "providerId": "claude",
+  "title": "补充现有信息",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783432160109,
+  "updatedAt": 1783495430521,
+  "lastResponseAt": 1783433290880,
+  "sessionId": "432a7207-751c-4da7-b1f5-5890a32c7971",
+  "providerState": {
+    "providerSessionId": "432a7207-751c-4da7-b1f5-5890a32c7971"
+  },
+  "currentNote": "408/计算机网络/6.应用层/3.文件传输协议.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 429,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 59648,
+    "contextWindow": 200000,
+    "contextTokens": 60077,
+    "percentage": 30
+  }
+}

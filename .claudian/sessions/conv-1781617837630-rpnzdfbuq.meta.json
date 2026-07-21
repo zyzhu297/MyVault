@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781617837630-rpnzdfbuq",
+  "providerId": "claude",
+  "title": "Explain Lagrange interpolation method",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781617837630,
+  "updatedAt": 1781619378633,
+  "lastResponseAt": 1781619284674,
+  "sessionId": "675f9088-9be5-433e-a045-6b278f20559e",
+  "providerState": {
+    "providerSessionId": "675f9088-9be5-433e-a045-6b278f20559e"
+  },
+  "currentNote": "数学/高等数学/拉格朗日插值法.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 3180,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29312,
+    "contextWindow": 200000,
+    "contextTokens": 32492,
+    "percentage": 16
+  }
+}

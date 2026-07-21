@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781619489483-bdief01pc",
+  "providerId": "claude",
+  "title": "Analyze linear interpolation error formula",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781619489483,
+  "updatedAt": 1781619654635,
+  "lastResponseAt": 1781619558116,
+  "sessionId": "8497bc59-efe3-4244-a009-f00b1d8cb8bd",
+  "providerState": {
+    "providerSessionId": "8497bc59-efe3-4244-a009-f00b1d8cb8bd"
+  },
+  "currentNote": "数学/高等数学/拉格朗日插值法.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 676,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26880,
+    "contextWindow": 200000,
+    "contextTokens": 27556,
+    "percentage": 14
+  }
+}

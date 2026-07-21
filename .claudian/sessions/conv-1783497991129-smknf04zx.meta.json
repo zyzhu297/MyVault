@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783497991129-smknf04zx",
+  "providerId": "claude",
+  "title": "Add supplementary details",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783497991129,
+  "updatedAt": 1784224122068,
+  "lastResponseAt": 1783511607719,
+  "sessionId": "aeac1917-18eb-4ea2-b37b-6127224621eb",
+  "providerState": {
+    "providerSessionId": "aeac1917-18eb-4ea2-b37b-6127224621eb"
+  },
+  "currentNote": "408/计算机网络/6.应用层/5.万维网.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1586,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 52352,
+    "contextWindow": 200000,
+    "contextTokens": 53938,
+    "percentage": 27
+  }
+}

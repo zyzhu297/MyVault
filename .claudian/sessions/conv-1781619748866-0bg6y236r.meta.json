@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781619748866-0bg6y236r",
+  "providerId": "claude",
+  "title": "Add missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781619748866,
+  "updatedAt": 1781697671134,
+  "lastResponseAt": 1781620932546,
+  "sessionId": "3d70731c-0bd6-4629-a95a-d0892b28aef4",
+  "providerState": {
+    "providerSessionId": "3d70731c-0bd6-4629-a95a-d0892b28aef4"
+  },
+  "currentNote": "408/计算机组成原理/3.存储系统/4.外部存储器.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 688,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 58368,
+    "contextWindow": 200000,
+    "contextTokens": 59056,
+    "percentage": 30
+  }
+}

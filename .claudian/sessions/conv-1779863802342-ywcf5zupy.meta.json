@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779863802342-ywcf5zupy",
+  "providerId": "claude",
+  "title": "Supplement document content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779863802342,
+  "updatedAt": 1779874030524,
+  "lastResponseAt": 1779872308882,
+  "sessionId": "cc1f4f94-0780-4182-988d-56a74460fa39",
+  "providerState": {
+    "providerSessionId": "cc1f4f94-0780-4182-988d-56a74460fa39"
+  },
+  "currentNote": "408/操作系统/2.进程与线程/1.进程.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2778,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 50432,
+    "contextWindow": 200000,
+    "contextTokens": 53210,
+    "percentage": 27
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781244372408-iey2rxt7p",
+  "providerId": "claude",
+  "title": "Fill in missing content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781244372408,
+  "updatedAt": 1781256737712,
+  "lastResponseAt": 1781255903894,
+  "sessionId": "68e6ccce-7ae1-40f5-9e85-e6933d6e9af1",
+  "providerState": {
+    "providerSessionId": "68e6ccce-7ae1-40f5-9e85-e6933d6e9af1"
+  },
+  "currentNote": "408/计算机组成原理/2.数据的表示和运算/1.数制与编码.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1775,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 113920,
+    "contextWindow": 200000,
+    "contextTokens": 115695,
+    "percentage": 58
+  }
+}

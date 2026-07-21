@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779436787068-mdcutgsth",
+  "providerId": "claude",
+  "title": "Complete insertion sort notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779436787068,
+  "updatedAt": 1779502163549,
+  "lastResponseAt": 1779441256301,
+  "sessionId": "514d9804-f61b-412f-9da8-1a8b729a32eb",
+  "providerState": {
+    "providerSessionId": "514d9804-f61b-412f-9da8-1a8b729a32eb"
+  },
+  "currentNote": "408/数据结构/6.排序/4.选择排序.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 976,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 51072,
+    "contextWindow": 200000,
+    "contextTokens": 52048,
+    "percentage": 26
+  }
+}
