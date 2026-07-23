@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784806983250-fu78qg02d",
+  "providerId": "claude",
+  "title": "Explain DMA response phase",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784806983250,
+  "updatedAt": 1784806997888,
+  "lastResponseAt": 1784806997888,
+  "sessionId": "f4f124e8-5052-4e4a-a5d0-0214d55f268c",
+  "providerState": {
+    "providerSessionId": "f4f124e8-5052-4e4a-a5d0-0214d55f268c"
+  },
+  "currentNote": "408/计算机组成原理/7.输入输出系统/3.输入输出方式.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 6027,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20224,
+    "contextWindow": 200000,
+    "contextTokens": 26251,
+    "percentage": 13
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784809263677-brxwg7vf9",
+  "providerId": "claude",
+  "title": "Define OSPF acronym",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784809263677,
+  "updatedAt": 1784809284865,
+  "lastResponseAt": 1784809284865,
+  "sessionId": "cebb7bfe-2adf-448d-8a95-63e7febafefc",
+  "providerState": {
+    "providerSessionId": "cebb7bfe-2adf-448d-8a95-63e7febafefc"
+  },
+  "currentNote": "408/计算机网络/4.网络层/4.路由算法与路由协议.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 155,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20096,
+    "contextWindow": 200000,
+    "contextTokens": 20251,
+    "percentage": 10
+  }
+}
