@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788701830636-k32a579yx",
+  "providerId": "claude",
+  "title": "Explain when to use backoff algorithm",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788701830636,
+  "updatedAt": 1788761899596,
+  "lastResponseAt": 1788707374111,
+  "sessionId": "39f95c10-350d-46f1-8c2c-efb4f7601b1d",
+  "providerState": {
+    "providerSessionId": "39f95c10-350d-46f1-8c2c-efb4f7601b1d"
+  },
+  "currentNote": "408/计算机网络/3.数据链路层/5.介质访问控制.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 79,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32896,
+    "contextWindow": 200000,
+    "contextTokens": 32975,
+    "percentage": 16
+  }
+}

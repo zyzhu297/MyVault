@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788521206516-i0g82xsc8",
+  "providerId": "claude",
+  "title": "Supplement content briefly",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788521206516,
+  "updatedAt": 1788699806259,
+  "lastResponseAt": 1788521356009,
+  "sessionId": "ca13786f-253d-4228-b6e7-f5f41d88d937",
+  "providerState": {
+    "providerSessionId": "ca13786f-253d-4228-b6e7-f5f41d88d937"
+  },
+  "currentNote": "数学/线性代数/CR 分解和 LU 分解.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 48,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30208,
+    "contextWindow": 200000,
+    "contextTokens": 30256,
+    "percentage": 15
+  }
+}

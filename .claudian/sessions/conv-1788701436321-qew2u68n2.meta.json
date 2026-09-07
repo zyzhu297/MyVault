@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788701436321-qew2u68n2",
+  "providerId": "claude",
+  "title": "Implement simple Dijkstra algorithm",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788701436321,
+  "updatedAt": 1788761902043,
+  "lastResponseAt": 1788701464163,
+  "sessionId": "c6cb37c0-febf-41b8-a6ed-dc9ae674910e",
+  "providerState": {
+    "providerSessionId": "c6cb37c0-febf-41b8-a6ed-dc9ae674910e"
+  },
+  "currentNote": "408/数据结构/4.图/3.图的应用.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1617,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26624,
+    "contextWindow": 200000,
+    "contextTokens": 28241,
+    "percentage": 14
+  }
+}

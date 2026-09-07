@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788700938596-mkrmne3vz",
+  "providerId": "claude",
+  "title": "Explain why multicast addresses map only 23 bits",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788700938596,
+  "updatedAt": 1788701823006,
+  "lastResponseAt": 1788701001107,
+  "sessionId": "b97635f0-c4df-4199-936b-8f29fce4a8fa",
+  "providerState": {
+    "providerSessionId": "b97635f0-c4df-4199-936b-8f29fce4a8fa"
+  },
+  "currentNote": "408/计算机网络/4.网络层/5.IP多播.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1621,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22784,
+    "contextWindow": 200000,
+    "contextTokens": 24405,
+    "percentage": 12
+  }
+}

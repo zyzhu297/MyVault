@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788699812082-3rw07c22j",
+  "providerId": "claude",
+  "title": "Explain BIOS primary functions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788699812082,
+  "updatedAt": 1788701822811,
+  "lastResponseAt": 1788700141792,
+  "sessionId": "f744020b-349a-4ea2-ae5b-829821fcb636",
+  "providerState": {
+    "providerSessionId": "f744020b-349a-4ea2-ae5b-829821fcb636"
+  },
+  "currentNote": "408/操作系统/1.计算机系统概述/5.操作系统引导.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 27,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29056,
+    "contextWindow": 200000,
+    "contextTokens": 29083,
+    "percentage": 15
+  }
+}

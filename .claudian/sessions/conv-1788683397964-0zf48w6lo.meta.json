@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788683397964-0zf48w6lo",
+  "providerId": "claude",
+  "title": "Explain final pass of quicksort",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788683397964,
+  "updatedAt": 1788699804355,
+  "lastResponseAt": 1788684782578,
+  "sessionId": "91b36831-caa3-415d-bf08-a476876e6bae",
+  "providerState": {
+    "providerSessionId": "91b36831-caa3-415d-bf08-a476876e6bae"
+  },
+  "currentNote": "408/数据结构/6.排序/3.交换排序.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1504,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 61440,
+    "contextWindow": 200000,
+    "contextTokens": 62944,
+    "percentage": 31
+  }
+}

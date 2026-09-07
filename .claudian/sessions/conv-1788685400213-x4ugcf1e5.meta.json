@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788685400213-x4ugcf1e5",
+  "providerId": "claude",
+  "title": "Explain ISR execution period in embedded systems",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788685400213,
+  "updatedAt": 1788699803846,
+  "lastResponseAt": 1788685473413,
+  "sessionId": "14387e63-d6bf-446f-a79a-808c4ac3a5f5",
+  "providerState": {
+    "providerSessionId": "14387e63-d6bf-446f-a79a-808c4ac3a5f5"
+  },
+  "currentNote": "408/计算机组成原理/5.中央处理器/5.异常和中断机制.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1079,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29184,
+    "contextWindow": 200000,
+    "contextTokens": 30263,
+    "percentage": 15
+  }
+}

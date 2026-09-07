@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788761919262-y42yqngag",
+  "providerId": "claude",
+  "title": "Compare user cache and general-purpose registers",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788761919262,
+  "updatedAt": 1788761975917,
+  "lastResponseAt": 1788761975917,
+  "sessionId": "eb03b56d-1aae-4d7b-a7bc-33511e424912",
+  "providerState": {
+    "providerSessionId": "eb03b56d-1aae-4d7b-a7bc-33511e424912"
+  },
+  "currentNote": "408/操作系统/5.输入输出管理/2.设备独立性软件.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 7592,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20864,
+    "contextWindow": 200000,
+    "contextTokens": 28456,
+    "percentage": 14
+  }
+}
