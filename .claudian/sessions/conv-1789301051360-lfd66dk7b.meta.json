@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789301051360-lfd66dk7b",
+  "providerId": "claude",
+  "title": "Explain the purpose of normalization",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789301051360,
+  "updatedAt": 1789301086697,
+  "lastResponseAt": 1789301086697,
+  "sessionId": "69ec284a-ca6c-486f-ab8b-0b23ad4ef1b7",
+  "providerState": {
+    "providerSessionId": "69ec284a-ca6c-486f-ab8b-0b23ad4ef1b7"
+  },
+  "currentNote": "408/计算机组成原理/2.数据的表示和运算/3.浮点数的表示与运算.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 737,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29312,
+    "contextWindow": 200000,
+    "contextTokens": 30049,
+    "percentage": 15
+  }
+}

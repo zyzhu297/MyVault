@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789009217666-o3yzoit6j",
+  "providerId": "claude",
+  "title": "Explain computer system hierarchical layers",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789009217667,
+  "updatedAt": 1789301049993,
+  "lastResponseAt": 1789009442769,
+  "sessionId": "4cc759ff-e411-45c4-b092-e22c3bffacfe",
+  "providerState": {
+    "providerSessionId": "4cc759ff-e411-45c4-b092-e22c3bffacfe"
+  },
+  "currentNote": "408/计算机组成原理/1.计算机概述/2.计算机系统层次结构.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1952,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27776,
+    "contextWindow": 200000,
+    "contextTokens": 29728,
+    "percentage": 15
+  }
+}

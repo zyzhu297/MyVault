@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789354893314-k86ec6nzh",
+  "providerId": "claude",
+  "title": "Determine DRAM refresh access cycle requirements",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789354893314,
+  "updatedAt": 1789358142637,
+  "lastResponseAt": 1789358142637,
+  "sessionId": "1e9b21d6-a1da-492c-a6d8-6fde91ddc9df",
+  "providerState": {
+    "providerSessionId": "1e9b21d6-a1da-492c-a6d8-6fde91ddc9df"
+  },
+  "currentNote": "408/计算机组成原理/3.存储系统/2.主存储器.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2385,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44800,
+    "contextWindow": 200000,
+    "contextTokens": 47185,
+    "percentage": 24
+  }
+}

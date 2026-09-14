@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789378898355-3a9y9c1iv",
+  "providerId": "claude",
+  "title": "Derive Fourier series on interval [-l, l]",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789378898355,
+  "updatedAt": 1789378933620,
+  "lastResponseAt": 1789378933620,
+  "sessionId": "9517baf4-f6a9-4bd4-9b4a-5738f95d6878",
+  "providerState": {
+    "providerSessionId": "9517baf4-f6a9-4bd4-9b4a-5738f95d6878"
+  },
+  "currentNote": "数学/高等数学/傅里叶级数.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 5315,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20864,
+    "contextWindow": 200000,
+    "contextTokens": 26179,
+    "percentage": 13
+  }
+}
