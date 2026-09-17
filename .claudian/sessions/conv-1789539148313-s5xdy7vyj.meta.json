@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789539148313-s5xdy7vyj",
+  "providerId": "claude",
+  "title": "Analyze cache size impact on miss rate",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789539148313,
+  "updatedAt": 1789612234805,
+  "lastResponseAt": 1789539950188,
+  "sessionId": "a207bf21-c22c-46f9-b5d1-04ed7365029c",
+  "providerState": {
+    "providerSessionId": "a207bf21-c22c-46f9-b5d1-04ed7365029c"
+  },
+  "currentNote": "408/计算机组成原理/3.存储系统/5.高速缓冲存储器.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 603,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42624,
+    "contextWindow": 200000,
+    "contextTokens": 43227,
+    "percentage": 22
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789529492348-mc91xqs8z",
+  "providerId": "claude",
+  "title": "Compare block vs page sizes in memory",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789529492348,
+  "updatedAt": 1789539131972,
+  "lastResponseAt": 1789538096366,
+  "sessionId": "f05ce7b4-d77d-4234-9f1d-3f491bfaca7e",
+  "providerState": {
+    "providerSessionId": "f05ce7b4-d77d-4234-9f1d-3f491bfaca7e"
+  },
+  "currentNote": "408/计算机组成原理/3.存储系统/4.外部存储器.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 11781,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26624,
+    "contextWindow": 200000,
+    "contextTokens": 38405,
+    "percentage": 19
+  }
+}

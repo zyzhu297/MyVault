@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789527085362-9rirbwa0s",
+  "providerId": "claude",
+  "title": "Explain word extension vs interleaved addressing",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789527085362,
+  "updatedAt": 1789529483636,
+  "lastResponseAt": 1789528265864,
+  "sessionId": "69869297-1d03-46c0-aeb7-f9f125edf854",
+  "providerState": {
+    "providerSessionId": "69869297-1d03-46c0-aeb7-f9f125edf854"
+  },
+  "currentNote": "408/计算机组成原理/3.存储系统/3.主存储器与 CPU 的连接.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 3030,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35456,
+    "contextWindow": 200000,
+    "contextTokens": 38486,
+    "percentage": 19
+  }
+}
