@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789704073790-vvvxwfxqb",
+  "providerId": "claude",
+  "title": "Explain ZF=0 for OF, SF, CF flags",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789704073790,
+  "updatedAt": 1789704140032,
+  "lastResponseAt": 1789704134705,
+  "sessionId": "a0487ffb-9f7d-4897-b324-d867b4cc4afc",
+  "providerState": {
+    "providerSessionId": "a0487ffb-9f7d-4897-b324-d867b4cc4afc"
+  },
+  "currentNote": "408/计算机组成原理/2.数据的表示和运算/2.运算方法与运算电路.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 12474,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21376,
+    "contextWindow": 200000,
+    "contextTokens": 33850,
+    "percentage": 17
+  }
+}

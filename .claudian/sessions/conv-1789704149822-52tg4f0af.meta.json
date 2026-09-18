@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789704149822-52tg4f0af",
+  "providerId": "claude",
+  "title": "Emphasize x86 flags OF, SF, CF when ZF=0",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789704149822,
+  "updatedAt": 1789704363185,
+  "lastResponseAt": 1789704363185,
+  "sessionId": "4b5e9667-6b9e-4b86-8df7-fe9a7d220190",
+  "providerState": {
+    "providerSessionId": "4b5e9667-6b9e-4b86-8df7-fe9a7d220190"
+  },
+  "currentNote": "408/计算机组成原理/2.数据的表示和运算/2.运算方法与运算电路.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 841,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44416,
+    "contextWindow": 200000,
+    "contextTokens": 45257,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}
