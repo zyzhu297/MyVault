@@ -4,21 +4,20 @@
   "title": "Emphasize x86 flags OF, SF, CF when ZF=0",
   "titleGenerationStatus": "success",
   "createdAt": 1789704149822,
-  "updatedAt": 1789704363185,
-  "lastResponseAt": 1789704363185,
+  "updatedAt": 1789792281828,
+  "lastResponseAt": 1789791195219,
   "sessionId": "4b5e9667-6b9e-4b86-8df7-fe9a7d220190",
   "providerState": {
     "providerSessionId": "4b5e9667-6b9e-4b86-8df7-fe9a7d220190"
   },
-  "currentNote": "408/计算机组成原理/2.数据的表示和运算/2.运算方法与运算电路.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 841,
+    "inputTokens": 10022,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 44416,
+    "cacheReadInputTokens": 45952,
     "contextWindow": 200000,
-    "contextTokens": 45257,
-    "percentage": 23,
+    "contextTokens": 55974,
+    "percentage": 28,
     "contextWindowIsAuthoritative": true
   }
 }

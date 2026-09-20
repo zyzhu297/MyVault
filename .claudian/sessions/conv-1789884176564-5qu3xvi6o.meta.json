@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789884176564-5qu3xvi6o",
+  "providerId": "claude",
+  "title": "Explain status condition registers in controllers",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789884176564,
+  "updatedAt": 1789885422187,
+  "lastResponseAt": 1789885422187,
+  "sessionId": "5a9d0cc2-d540-4bd2-852b-b3265b3ea262",
+  "providerState": {
+    "providerSessionId": "5a9d0cc2-d540-4bd2-852b-b3265b3ea262"
+  },
+  "currentNote": "408/计算机组成原理/5.中央处理器/4.控制器的功能和工作原理.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 330,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 70400,
+    "contextWindow": 200000,
+    "contextTokens": 70730,
+    "percentage": 35,
+    "contextWindowIsAuthoritative": true
+  }
+}
