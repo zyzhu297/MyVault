@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790053382149-wzuxk1gqy",
+  "providerId": "claude",
+  "title": "Explain bus transaction clock cycle count",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790053382150,
+  "updatedAt": 1790054859910,
+  "lastResponseAt": 1790054859910,
+  "sessionId": "ea543a8e-635b-4372-ac45-b257a8cfa1e6",
+  "providerState": {
+    "providerSessionId": "ea543a8e-635b-4372-ac45-b257a8cfa1e6"
+  },
+  "currentNote": "408/计算机组成原理/6.总线/2.总线事务和定时.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 246,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35200,
+    "contextWindow": 200000,
+    "contextTokens": 35446,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}
