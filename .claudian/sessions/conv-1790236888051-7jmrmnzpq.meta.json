@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790236888051-7jmrmnzpq",
+  "providerId": "claude",
+  "title": "Explain missing memory address register",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790236888052,
+  "updatedAt": 1790239169805,
+  "lastResponseAt": 1790237422065,
+  "sessionId": "8b47b9c1-1346-4ab0-9f35-dbab4c5e55fb",
+  "providerState": {
+    "providerSessionId": "8b47b9c1-1346-4ab0-9f35-dbab4c5e55fb"
+  },
+  "currentNote": "408/计算机组成原理/7.输入输出系统/2.输入输出接口.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 261,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45312,
+    "contextWindow": 200000,
+    "contextTokens": 45573,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}

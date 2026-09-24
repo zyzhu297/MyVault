@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/总结/周期.md",
+                "file": "408/计算机组成原理/7.输入输出系统/2.输入输出接口.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "周期"
+              "title": "2.输入输出接口"
             }
           },
           {
@@ -66,9 +66,33 @@
               "icon": "lucide-file-text",
               "title": "27王道《计算机网络》高清带书签"
             }
+          },
+          {
+            "id": "e1ce772d2c24b5c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/计算机组成原理/7.输入输出系统/3.输入输出方式.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3.输入输出方式"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,9 +281,14 @@
   },
   "active": "3a6385bc53984978",
   "lastOpenFiles": [
+    "408/计算机组成原理/7.输入输出系统/2.输入输出接口.md",
+    "408/计算机组成原理/7.输入输出系统/3.输入输出方式.md",
+    "408/计算机组成原理/7.输入输出系统/1.输入输出系统基本概念.md",
+    "408/计算机组成原理/7.输入输出系统/2.输入输出接口.md.tmp.33532.d7def0acdb58",
+    "408/数据结构/6.排序/9.外部排序.md",
+    "408/总结/周期.md",
     "408/总结/周期.md.tmp.15692.da075d96a36c",
     "408/答案.md",
-    "408/总结/周期.md",
     "408/总结",
     "408/计算机组成原理/6.总线/2.总线事务和定时.md",
     "408/计算机组成原理/6.总线/2.总线事务和定时.md.tmp.35152.a8d00efb95de",
@@ -288,13 +317,8 @@
     "408/操作系统/5.输入输出管理/2.设备独立性软件.md",
     "408/计算机网络/2.物理层/2.传输介质.md",
     "408/计算机网络/3.数据链路层/5.介质访问控制.md",
-    "数学/高等数学/重极限.md",
     "数学/高等数学/附件/Pasted image 20260916195914.png",
     "数学/高等数学/附件/Pasted image 20260916195212.png",
-    "数学/高等数学/附件",
-    "408/操作系统/5.输入输出管理/3.磁盘和固态硬盘.md",
-    "408/操作系统/3.内存管理/2.虚拟内存管理.md",
-    "408/计算机网络/27王道《计算机网络》高清带书签.pdf",
     "政治/未命名.canvas",
     "英语/附件/Pasted image 20260630213041.png",
     "数学/线性代数/附件/_tmp_crlu.png",

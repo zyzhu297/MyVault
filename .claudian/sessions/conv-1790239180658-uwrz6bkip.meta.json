@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790239180658-uwrz6bkip",
+  "providerId": "claude",
+  "title": "强调 DMA 请求的发起方",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790239180658,
+  "updatedAt": 1790239191720,
+  "lastResponseAt": 1790239191720,
+  "sessionId": "3bd5c81d-4912-4538-88b7-e8fa21ebcfcf",
+  "providerState": {
+    "providerSessionId": "3bd5c81d-4912-4538-88b7-e8fa21ebcfcf"
+  },
+  "currentNote": "408/计算机组成原理/7.输入输出系统/3.输入输出方式.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 191,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28032,
+    "contextWindow": 200000,
+    "contextTokens": 28223,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}
