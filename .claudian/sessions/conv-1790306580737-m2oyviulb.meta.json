@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790306580737-m2oyviulb",
+  "providerId": "claude",
+  "title": "对比 TCP/IP 与 OSI 传输层拥塞控制",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790306580737,
+  "updatedAt": 1790424641897,
+  "lastResponseAt": 1790311644732,
+  "sessionId": "6b700872-86d9-434d-9e3e-0b52b89cb9b7",
+  "providerState": {
+    "providerSessionId": "6b700872-86d9-434d-9e3e-0b52b89cb9b7"
+  },
+  "currentNote": "408/计算机网络/1.计算机网络体系结构/2.计算机网络体系结构与参考模型.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 686,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33152,
+    "contextWindow": 200000,
+    "contextTokens": 33838,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

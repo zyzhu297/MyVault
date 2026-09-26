@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790426526820-vtw0jczaf",
+  "providerId": "claude",
+  "title": "Explain SDU vs PDU in protocol layers",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790426526821,
+  "updatedAt": 1790426541682,
+  "lastResponseAt": 1790426541682,
+  "sessionId": "1db1df59-3111-4d88-b2ee-8d977b9e125c",
+  "providerState": {
+    "providerSessionId": "1db1df59-3111-4d88-b2ee-8d977b9e125c"
+  },
+  "currentNote": "408/计算机网络/1.计算机网络体系结构/2.计算机网络体系结构与参考模型.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 6352,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20992,
+    "contextWindow": 200000,
+    "contextTokens": 27344,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}
