@@ -32,55 +32,7 @@
             }
           },
           {
-            "id": "e1ce772d2c24b5c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机组成原理/3.存储系统/5.高速缓冲存储器.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "5.高速缓冲存储器"
-            }
-          },
-          {
             "id": "dab3b3339f5036c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/操作系统/2.进程与线程/4.同步与互斥.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4.同步与互斥"
-            }
-          },
-          {
-            "id": "c7d5a6e4fad38be9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -101,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "代码"
+            }
+          },
+          {
+            "id": "c7d5a6e4fad38be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/数据结构/5.查找/4.B树和B+树.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4.B树和B+树"
             }
           }
         ],
@@ -138,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "空闲",
+                "query": "有向无环",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -293,6 +269,26 @@
   },
   "active": "3a6385bc53984978",
   "lastOpenFiles": [
+    "408/数据结构/5.查找/3.树形查找.md",
+    "408/数据结构/5.查找/4.B树和B+树.md",
+    "408/数据结构/5.查找/5.散列表.md",
+    "408/数据结构/代码.md.tmp.42820.dfd3cfda58b6",
+    "408/数据结构/5.查找/1.查找的基本概念.md.tmp.42820.b531981b62a5",
+    "408/操作系统/4.文件管理/1.文件系统基础.md.tmp.42820.2e755650539c",
+    "408/数据结构/5.查找/_tmp_split.py",
+    "408/数据结构/5.查找/4.散列表.md",
+    "408/数据结构/5.查找/4.B树和B+树.md.tmp.42820.ea2d551dc3e4",
+    "408/数据结构/5.查找/2.线性查找.md",
+    "408/计算机组成原理/3.存储系统/5.高速缓冲存储器.md",
+    "408/数据结构/5.查找/1.查找的基本概念.md",
+    "408/数据结构/4.图/3.图的应用.md",
+    "408/数据结构/4.图/1.图.md",
+    "408/数据结构/代码.md",
+    "数学/概率与数理统计/正态总体下的常用结论.md",
+    "数学/概率与数理统计/中心极限定理.md",
+    "数学/概率与数理统计/随机变量.md",
+    "数学/概率与数理统计/二维正态分布.md",
+    "408/操作系统/2.进程与线程/4.同步与互斥.md",
     "408/操作系统/2.进程与线程/4.同步与互斥.md.tmp.33168.910b44b5e9a5",
     "408/操作系统/2.进程与线程/4.同步与互斥.md.tmp.33168.c854a97b1bf9",
     "408/操作系统/2.进程与线程/4.同步与互斥.md.tmp.33168.343717bac844",
@@ -300,8 +296,6 @@
     "408/操作系统/2.进程与线程/4.同步与互斥.md.tmp.33168.0f43a86c9a3a",
     "408/计算机网络/3.数据链路层/6.局域网.md",
     "408/计算机网络/3.数据链路层/5.介质访问控制.md",
-    "408/计算机组成原理/3.存储系统/5.高速缓冲存储器.md",
-    "408/计算机组成原理/3.存储系统/5.高速缓冲存储器.md.tmp.2472.58ef1ca719dc",
     "408/计算机组成原理/3.存储系统/3.主存储器与 CPU 的连接.md",
     "408/计算机组成原理/4.指令系统/2.寻址方式.md",
     "408/操作系统/2.进程与线程/3.CPU 调度.md",
@@ -310,25 +304,6 @@
     "408/计算机网络/4.网络层/3.IPv6.md",
     "408/计算机网络/3.数据链路层/7.广域网.md",
     "408/计算机网络/3.数据链路层/8.数据链路层设备.md",
-    "408/计算机网络/3.数据链路层/4.流量控制与可靠传输机制.md",
-    "408/操作系统/3.内存管理/1.内存管理概念.md",
-    "408/操作系统/2.进程与线程/1.进程.md",
-    "408/计算机组成原理/2.数据的表示和运算/2.运算方法与运算电路.md",
-    "408/数据结构/代码.md",
-    "408/操作系统/附件/信号量实现前驱关系.md",
-    "408/操作系统/附件/文件系统布局.md",
-    "408/数据结构/3.树/附件/森林、树与二叉树的对应关系.md",
-    "408/计算机组成原理/6.总线/1.总线概述.md",
-    "408/计算机组成原理/5.中央处理器/4.控制器的功能和工作原理.md",
-    "408/计算机组成原理/5.中央处理器/4.控制器的功能和工作原理.md.tmp.27840.2518f33ada13",
-    "408/计算机组成原理/5.中央处理器/4.控制器的功能和工作原理.md.tmp.27840.4b19330cc99e",
-    "408/计算机组成原理/3.存储系统/1.存储器概述.md",
-    "408/计算机组成原理/1.计算机概述/2.计算机系统层次结构.md",
-    "408/操作系统/2.进程与线程/4.同步与互斥.md",
-    "408/操作系统/5.输入输出管理/3.磁盘和固态硬盘.md",
-    "408/计算机组成原理/3.存储系统/4.外部存储器.md.tmp.37576.141ddd58905f",
-    "408/计算机组成原理/3.存储系统/4.外部存储器.md.tmp.37576.32d591dba2b5",
-    "408/计算机组成原理/2.数据的表示和运算/3.浮点数的表示与运算.md.tmp.35416.4707a74353fc",
     "数学/概率与数理统计/附件/Pasted image 20260518014023.png",
     "数学/概率与数理统计/附件/Pasted image 20260526155445.png",
     "数学/概率与数理统计/附件/Pasted image 20260526165723.png",
