@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机网络/4.网络层/2.IPv4.md",
+                "file": "408/操作系统/2.进程与线程/5.死锁.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.IPv4"
-            }
-          },
-          {
-            "id": "87c3a9e2de9a7ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机网络/4.网络层/4.路由算法与路由协议.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4.路由算法与路由协议"
+              "title": "5.死锁"
             }
           },
           {
@@ -85,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机组成原理/3.存储系统/6.虚拟存储器.md",
+                "file": "408/计算机组成原理/3.存储系统/2.主存储器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6.虚拟存储器"
+              "title": "2.主存储器"
+            }
+          },
+          {
+            "id": "8fe33a370aa401e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/计算机网络/5.传输层/3.TCP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3.TCP"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机网络/4.网络层/4.路由算法与路由协议.md",
+                "file": "408/计算机网络/5.传输层/3.TCP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -293,13 +293,23 @@
   },
   "active": "3a6385bc53984978",
   "lastOpenFiles": [
+    "408/计算机网络/5.传输层/3.TCP.md.tmp.44596.e754aecde354",
+    "408/操作系统/1.计算机系统概述/3.操作系统的运行环境.md",
+    "408/操作系统/1.计算机系统概述/3.操作系统的运行环境.md.tmp.44524.486f9762fb8b",
+    "408/操作系统/1.计算机系统概述/3.操作系统的运行环境.md.tmp.44524.207a2dd5708c",
+    "408/计算机组成原理/3.存储系统/2.主存储器.md",
+    "408/操作系统/2.进程与线程/5.死锁.md",
+    "408/操作系统/2.进程与线程/5.死锁.md.tmp.40424.6193016c7ea7",
     "408/计算机网络/4.网络层/2.IPv4.md",
+    "408/计算机组成原理/3.存储系统/1.存储器概述.md",
+    "408/操作系统/3.内存管理/1.内存管理概念.md",
+    "408/计算机网络/6.应用层/5.万维网.md",
+    "408/计算机组成原理/3.存储系统/6.虚拟存储器.md",
+    "408/计算机网络/6.应用层/总结.md",
     "408/计算机网络/4.网络层/4.路由算法与路由协议.md",
     "408/计算机网络/3.数据链路层/5.介质访问控制.md",
-    "408/计算机网络/6.应用层/5.万维网.md",
     "408/操作系统/5.输入输出管理/2.设备独立性软件.md",
     "408/操作系统/5.输入输出管理/1.输入输出管理概述.md",
-    "408/操作系统/2.进程与线程/5.死锁.md",
     "408/操作系统/2.进程与线程/4.同步与互斥.md",
     "408/计算机组成原理/5.中央处理器/6.指令流水线.md",
     "408/计算机组成原理/5.中央处理器/4.控制器的功能和工作原理.md",
@@ -311,24 +321,14 @@
     "408/计算机网络/3.数据链路层/4.流量控制与可靠传输机制.md",
     "408/计算机网络/4.网络层/5.IP多播.md",
     "408/操作系统/4.文件管理/3.文件.md",
-    "408/计算机组成原理/3.存储系统/6.虚拟存储器.md",
     "408/操作系统/4.文件管理/3.文件.md.tmp.3156.a3ae34f837be",
     "408/操作系统/2.进程与线程/1.进程.md",
-    "408/操作系统/4.文件管理/4.文件系统.md",
-    "408/操作系统/4.文件管理/1.文件系统基础.md",
     "408/操作系统/4.文件管理/1.文件系统基础.md.tmp.20596.053efddf1e44",
     "408/操作系统/4.文件管理/1.文件系统基础.md.tmp.20596.ed4dd3a99d21",
-    "408/操作系统/2.进程与线程/2.线程.md",
-    "408/操作系统/4.文件管理/2.目录.md",
     "408/操作系统/2.进程与线程/1.进程.md.tmp.34688.c95871e72880",
     "408/计算机组成原理/3.存储系统/6.虚拟存储器.md.tmp.3012.888b5d2ce985",
-    "408/计算机组成原理/5.中央处理器/3.数据通路的功能和基本结构.md",
-    "408/计算机组成原理/4.指令系统/2.寻址方式.md",
     "408/数据结构/6.排序/8.内部排序比较.md.tmp.10000.be109a97fa98",
     "408/操作系统/2.进程与线程/3.CPU 调度.md.tmp.18672.6c3b6d286f91",
-    "osnotes.pdf",
-    "mlfq_baike_check.html",
-    "408/操作系统/2.进程与线程/1.进程.md.tmp.41924.51df4cb8536e",
     "数学/附件/Pasted image 20261105124312.png",
     "408/数据结构/6.排序/附件/置换-选择排序过程示例.png",
     "数学/附件/Pasted image 20261022102942.png",
