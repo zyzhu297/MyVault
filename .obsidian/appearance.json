@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "en-zh"
-  ]
+  ],
+  "showRibbon": true
 }
